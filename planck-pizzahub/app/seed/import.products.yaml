@@ -1,0 +1,14 @@
+store: products
+format: json
+output_dir: /Users/kamlesh/planckapps/samples/perf/planck-pizzahub/app/seed
+entities:
+  - name: products
+    role: parent
+    file: products.json
+    fields:
+      - name: ProductID
+        type: int
+      - name: CategoryID
+        type: int
+      - name: BasePrice
+        type: double

@@ -1,0 +1,18 @@
+{
+  "name": "express-pizzahub-products",
+  "version": "0.1.0",
+  "description": "Node/Express/MongoDB port of the Zig pizzahub products service",
+  "main": "server.js",
+  "type": "commonjs",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node --watch server.js",
+    "seed": "node seed/seed.js"
+  },
+  "dependencies": {
+    "express": "^4.19.2",
+    "mongoose": "^8.5.1",
+    "yaml": "^2.5.0",
+    "zod": "^3.23.8"
+  }
+}

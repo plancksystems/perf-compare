@@ -1,0 +1,5 @@
+app:
+  name: planck-pizzahub
+  description: "Minimal HDA-mono app for perf comparison with express-pizzahub. Products + categories only, no auth."
+  port: 4320
+  address: 127.0.0.1

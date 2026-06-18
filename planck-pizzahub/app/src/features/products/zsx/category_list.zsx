@@ -1,0 +1,25 @@
+const std = @import("std");
+const Category = @import("../models/product.zig").Category;
+
+pub const CategoryList = struct {
+    categories: []const Category,
+
+    pub fn render(self: CategoryList, out: *std.ArrayList(u8), allocator: std.mem.Allocator) !void {
+        return (
+            <aside id="category-list" class="w-56 min-w-[14rem] bg-white border-r border-slate-200 overflow-y-auto shrink-0 p-4">
+                <h2 class="text-xs font-semibold text-slate-400 uppercase tracking-wider mb-3">Categories</h2>
+                <button class="w-full text-left px-3 py-2 rounded-lg text-sm font-medium transition hover:bg-blue-50 hover:text-blue-700 category-btn" 
+                data-category="all">
+                    All Items
+                </button>
+                {for cat in self.categories}
+                    <button class="w-full text-left px-3 py-2 rounded-lg text-sm transition hover:bg-blue-50 hover:text-blue-700 category-btn"
+                    data-category="${cat.CategoryID}"
+                    data-on:click="@get('/products?category=${cat.CategoryID}')">
+                        {cat.Name}
+                    </button>
+                {/for}
+            </aside>
+        );
+    }
+};

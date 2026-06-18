@@ -1,0 +1,19 @@
+[
+  {"CategoryID": 1, "Name": "Classic Pizzas", "Description": "Traditional favorites made with our signature dough and sauce"},
+  {"CategoryID": 2, "Name": "Gourmet Pizzas", "Description": "Premium toppings and artisan combinations"},
+  {"CategoryID": 3, "Name": "Veg Pizzas", "Description": "Loaded vegetarian pizzas with fresh garden toppings"},
+  {"CategoryID": 4, "Name": "Thin Crust Pizzas", "Description": "Light and crispy thin crust varieties"},
+  {"CategoryID": 5, "Name": "Deep Dish Pizzas", "Description": "Chicago-style deep dish loaded with cheese"},
+  {"CategoryID": 6, "Name": "Calzones & Stromboli", "Description": "Folded and rolled pizza goodness"},
+  {"CategoryID": 7, "Name": "Pasta", "Description": "Fresh pasta dishes made in-house"},
+  {"CategoryID": 8, "Name": "Sides & Appetizers", "Description": "Perfect starters and shareable bites"},
+  {"CategoryID": 9, "Name": "Wings & Tenders", "Description": "Crispy chicken wings and tenders"},
+  {"CategoryID": 10, "Name": "Salads", "Description": "Fresh salads with house-made dressings"},
+  {"CategoryID": 11, "Name": "Burgers & Sandwiches", "Description": "Grilled burgers and hot sandwiches"},
+  {"CategoryID": 12, "Name": "Drinks", "Description": "Cold beverages, shakes, and more"},
+  {"CategoryID": 13, "Name": "Desserts", "Description": "Sweet treats to finish your meal"},
+  {"CategoryID": 14, "Name": "Combo Meals", "Description": "Value meal deals for one or sharing"},
+  {"CategoryID": 15, "Name": "Breakfast Pizzas", "Description": "Morning pizzas with eggs, bacon, and more"},
+  {"CategoryID": 16, "Name": "Kids Menu", "Description": "Smaller portions for little appetites"},
+  {"CategoryID": 17, "Name": "Dips & Extras", "Description": "Sauces, dips, and add-ons"}
+]

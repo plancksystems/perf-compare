@@ -1,0 +1,1907 @@
+[
+  {
+    "SKU": "CP-MARG-S",
+    "Name": "Margherita Pizza - Small",
+    "Description": "San Marzano tomato sauce, fresh mozzarella, basil leaves, extra virgin olive oil",
+    "CategoryID": 1,
+    "BasePrice": 249.0,
+    "ImageURL": "https://images.unsplash.com/photo-1574071318508-1cdbab80d002?w=400&h=300&fit=crop",
+    "Attributes": "{\"size\":\"Small\",\"inches\":8,\"serves\":1}",
+    "ProductID": 1
+  },
+  {
+    "SKU": "CP-MARG-M",
+    "Name": "Margherita Pizza - Medium",
+    "Description": "San Marzano tomato sauce, fresh mozzarella, basil leaves, extra virgin olive oil",
+    "CategoryID": 1,
+    "BasePrice": 399.0,
+    "ImageURL": "https://images.unsplash.com/photo-1574071318508-1cdbab80d002?w=400&h=300&fit=crop",
+    "Attributes": "{\"size\":\"Medium\",\"inches\":12,\"serves\":2}",
+    "ProductID": 2
+  },
+  {
+    "SKU": "CP-MARG-L",
+    "Name": "Margherita Pizza - Large",
+    "Description": "San Marzano tomato sauce, fresh mozzarella, basil leaves, extra virgin olive oil",
+    "CategoryID": 1,
+    "BasePrice": 549.0,
+    "ImageURL": "https://images.unsplash.com/photo-1574071318508-1cdbab80d002?w=400&h=300&fit=crop",
+    "Attributes": "{\"size\":\"Large\",\"inches\":16,\"serves\":4}",
+    "ProductID": 3
+  },
+  {
+    "SKU": "CP-PEPP-S",
+    "Name": "Pepperoni Pizza - Small",
+    "Description": "Classic pepperoni with mozzarella and our house marinara",
+    "CategoryID": 1,
+    "BasePrice": 279.0,
+    "ImageURL": "https://images.unsplash.com/photo-1628840042765-356cda07504e?w=400&h=300&fit=crop",
+    "Attributes": "{\"size\":\"Small\",\"inches\":8,\"serves\":1}",
+    "ProductID": 4
+  },
+  {
+    "SKU": "CP-PEPP-M",
+    "Name": "Pepperoni Pizza - Medium",
+    "Description": "Classic pepperoni with mozzarella and our house marinara",
+    "CategoryID": 1,
+    "BasePrice": 449.0,
+    "ImageURL": "https://images.unsplash.com/photo-1628840042765-356cda07504e?w=400&h=300&fit=crop",
+    "Attributes": "{\"size\":\"Medium\",\"inches\":12,\"serves\":2}",
+    "ProductID": 5
+  },
+  {
+    "SKU": "CP-PEPP-L",
+    "Name": "Pepperoni Pizza - Large",
+    "Description": "Classic pepperoni with mozzarella and our house marinara",
+    "CategoryID": 1,
+    "BasePrice": 599.0,
+    "ImageURL": "https://images.unsplash.com/photo-1628840042765-356cda07504e?w=400&h=300&fit=crop",
+    "Attributes": "{\"size\":\"Large\",\"inches\":16,\"serves\":4}",
+    "ProductID": 6
+  },
+  {
+    "SKU": "CP-HAWAI-S",
+    "Name": "Hawaiian Pizza - Small",
+    "Description": "Ham, pineapple, mozzarella with a tangy tomato base",
+    "CategoryID": 1,
+    "BasePrice": 289.0,
+    "ImageURL": "https://images.unsplash.com/photo-1565299624946-b28f40a0ae38?w=400&h=300&fit=crop",
+    "Attributes": "{\"size\":\"Small\",\"inches\":8,\"serves\":1}",
+    "ProductID": 7
+  },
+  {
+    "SKU": "CP-HAWAI-M",
+    "Name": "Hawaiian Pizza - Medium",
+    "Description": "Ham, pineapple, mozzarella with a tangy tomato base",
+    "CategoryID": 1,
+    "BasePrice": 459.0,
+    "ImageURL": "https://images.unsplash.com/photo-1565299624946-b28f40a0ae38?w=400&h=300&fit=crop",
+    "Attributes": "{\"size\":\"Medium\",\"inches\":12,\"serves\":2}",
+    "ProductID": 8
+  },
+  {
+    "SKU": "CP-HAWAI-L",
+    "Name": "Hawaiian Pizza - Large",
+    "Description": "Ham, pineapple, mozzarella with a tangy tomato base",
+    "CategoryID": 1,
+    "BasePrice": 629.0,
+    "ImageURL": "https://images.unsplash.com/photo-1565299624946-b28f40a0ae38?w=400&h=300&fit=crop",
+    "Attributes": "{\"size\":\"Large\",\"inches\":16,\"serves\":4}",
+    "ProductID": 9
+  },
+  {
+    "SKU": "CP-BBQ-S",
+    "Name": "BBQ Chicken Pizza - Small",
+    "Description": "Grilled chicken, red onion, cilantro, smoky BBQ sauce, mozzarella",
+    "CategoryID": 1,
+    "BasePrice": 299.0,
+    "ImageURL": "https://images.unsplash.com/photo-1513104890138-7c749659a591?w=400&h=300&fit=crop",
+    "Attributes": "{\"size\":\"Small\",\"inches\":8,\"serves\":1}",
+    "ProductID": 10
+  },
+  {
+    "SKU": "CP-BBQ-M",
+    "Name": "BBQ Chicken Pizza - Medium",
+    "Description": "Grilled chicken, red onion, cilantro, smoky BBQ sauce, mozzarella",
+    "CategoryID": 1,
+    "BasePrice": 479.0,
+    "ImageURL": "https://images.unsplash.com/photo-1513104890138-7c749659a591?w=400&h=300&fit=crop",
+    "Attributes": "{\"size\":\"Medium\",\"inches\":12,\"serves\":2}",
+    "ProductID": 11
+  },
+  {
+    "SKU": "CP-BBQ-L",
+    "Name": "BBQ Chicken Pizza - Large",
+    "Description": "Grilled chicken, red onion, cilantro, smoky BBQ sauce, mozzarella",
+    "CategoryID": 1,
+    "BasePrice": 649.0,
+    "ImageURL": "https://images.unsplash.com/photo-1513104890138-7c749659a591?w=400&h=300&fit=crop",
+    "Attributes": "{\"size\":\"Large\",\"inches\":16,\"serves\":4}",
+    "ProductID": 12
+  },
+  {
+    "SKU": "CP-MEAT-S",
+    "Name": "Meat Lovers Pizza - Small",
+    "Description": "Pepperoni, sausage, bacon, ham, ground beef on marinara",
+    "CategoryID": 1,
+    "BasePrice": 319.0,
+    "ImageURL": "https://images.unsplash.com/photo-1590947132387-155cc02f3212?w=400&h=300&fit=crop",
+    "Attributes": "{\"size\":\"Small\",\"inches\":8,\"serves\":1}",
+    "ProductID": 13
+  },
+  {
+    "SKU": "CP-MEAT-M",
+    "Name": "Meat Lovers Pizza - Medium",
+    "Description": "Pepperoni, sausage, bacon, ham, ground beef on marinara",
+    "CategoryID": 1,
+    "BasePrice": 499.0,
+    "ImageURL": "https://images.unsplash.com/photo-1590947132387-155cc02f3212?w=400&h=300&fit=crop",
+    "Attributes": "{\"size\":\"Medium\",\"inches\":12,\"serves\":2}",
+    "ProductID": 14
+  },
+  {
+    "SKU": "CP-MEAT-L",
+    "Name": "Meat Lovers Pizza - Large",
+    "Description": "Pepperoni, sausage, bacon, ham, ground beef on marinara",
+    "CategoryID": 1,
+    "BasePrice": 699.0,
+    "ImageURL": "https://images.unsplash.com/photo-1590947132387-155cc02f3212?w=400&h=300&fit=crop",
+    "Attributes": "{\"size\":\"Large\",\"inches\":16,\"serves\":4}",
+    "ProductID": 15
+  },
+  {
+    "SKU": "CP-CHSE-S",
+    "Name": "Four Cheese Pizza - Small",
+    "Description": "Mozzarella, cheddar, parmesan, gorgonzola on white garlic sauce",
+    "CategoryID": 1,
+    "BasePrice": 289.0,
+    "ImageURL": "https://images.unsplash.com/photo-1571407970349-bc81e7e96d47?w=400&h=300&fit=crop",
+    "Attributes": "{\"size\":\"Small\",\"inches\":8,\"serves\":1}",
+    "ProductID": 16
+  },
+  {
+    "SKU": "CP-CHSE-M",
+    "Name": "Four Cheese Pizza - Medium",
+    "Description": "Mozzarella, cheddar, parmesan, gorgonzola on white garlic sauce",
+    "CategoryID": 1,
+    "BasePrice": 459.0,
+    "ImageURL": "https://images.unsplash.com/photo-1571407970349-bc81e7e96d47?w=400&h=300&fit=crop",
+    "Attributes": "{\"size\":\"Medium\",\"inches\":12,\"serves\":2}",
+    "ProductID": 17
+  },
+  {
+    "SKU": "CP-CHSE-L",
+    "Name": "Four Cheese Pizza - Large",
+    "Description": "Mozzarella, cheddar, parmesan, gorgonzola on white garlic sauce",
+    "CategoryID": 1,
+    "BasePrice": 629.0,
+    "ImageURL": "https://images.unsplash.com/photo-1571407970349-bc81e7e96d47?w=400&h=300&fit=crop",
+    "Attributes": "{\"size\":\"Large\",\"inches\":16,\"serves\":4}",
+    "ProductID": 18
+  },
+  {
+    "SKU": "CP-BUFFC-M",
+    "Name": "Buffalo Chicken Pizza - Medium",
+    "Description": "Spicy buffalo chicken, blue cheese crumbles, celery, ranch drizzle",
+    "CategoryID": 1,
+    "BasePrice": 479.0,
+    "ImageURL": "https://images.unsplash.com/photo-1593560708920-61dd98c46a4e?w=400&h=300&fit=crop",
+    "Attributes": "{\"size\":\"Medium\",\"inches\":12,\"serves\":2}",
+    "ProductID": 19
+  },
+  {
+    "SKU": "CP-BUFFC-L",
+    "Name": "Buffalo Chicken Pizza - Large",
+    "Description": "Spicy buffalo chicken, blue cheese crumbles, celery, ranch drizzle",
+    "CategoryID": 1,
+    "BasePrice": 649.0,
+    "ImageURL": "https://images.unsplash.com/photo-1593560708920-61dd98c46a4e?w=400&h=300&fit=crop",
+    "Attributes": "{\"size\":\"Large\",\"inches\":16,\"serves\":4}",
+    "ProductID": 20
+  },
+  {
+    "SKU": "CP-SUPR-M",
+    "Name": "Supreme Pizza - Medium",
+    "Description": "Pepperoni, sausage, bell peppers, onions, mushrooms, black olives",
+    "CategoryID": 1,
+    "BasePrice": 499.0,
+    "ImageURL": "https://images.unsplash.com/photo-1604382355076-af4b0eb60143?w=400&h=300&fit=crop",
+    "Attributes": "{\"size\":\"Medium\",\"inches\":12,\"serves\":2}",
+    "ProductID": 21
+  },
+  {
+    "SKU": "CP-SUPR-L",
+    "Name": "Supreme Pizza - Large",
+    "Description": "Pepperoni, sausage, bell peppers, onions, mushrooms, black olives",
+    "CategoryID": 1,
+    "BasePrice": 699.0,
+    "ImageURL": "https://images.unsplash.com/photo-1604382355076-af4b0eb60143?w=400&h=300&fit=crop",
+    "Attributes": "{\"size\":\"Large\",\"inches\":16,\"serves\":4}",
+    "ProductID": 22
+  },
+  {
+    "SKU": "GP-TRUF-M",
+    "Name": "Truffle Mushroom Pizza - Medium",
+    "Description": "Wild mushroom medley, truffle oil, fontina, arugula, shaved parmesan",
+    "CategoryID": 2,
+    "BasePrice": 599.0,
+    "ImageURL": "https://images.unsplash.com/photo-1511689660979-10d2b1aada49?w=400&h=300&fit=crop",
+    "Attributes": "{\"size\":\"Medium\",\"inches\":12,\"serves\":2}",
+    "ProductID": 23
+  },
+  {
+    "SKU": "GP-TRUF-L",
+    "Name": "Truffle Mushroom Pizza - Large",
+    "Description": "Wild mushroom medley, truffle oil, fontina, arugula, shaved parmesan",
+    "CategoryID": 2,
+    "BasePrice": 799.0,
+    "ImageURL": "https://images.unsplash.com/photo-1511689660979-10d2b1aada49?w=400&h=300&fit=crop",
+    "Attributes": "{\"size\":\"Large\",\"inches\":16,\"serves\":4}",
+    "ProductID": 24
+  },
+  {
+    "SKU": "GP-PRSC-M",
+    "Name": "Prosciutto & Arugula Pizza - Medium",
+    "Description": "Prosciutto di Parma, fresh arugula, shaved parmesan, lemon vinaigrette",
+    "CategoryID": 2,
+    "BasePrice": 579.0,
+    "ImageURL": "https://images.unsplash.com/photo-1595854341625-f33ee10dbf94?w=400&h=300&fit=crop",
+    "Attributes": "{\"size\":\"Medium\",\"inches\":12,\"serves\":2}",
+    "ProductID": 25
+  },
+  {
+    "SKU": "GP-PRSC-L",
+    "Name": "Prosciutto & Arugula Pizza - Large",
+    "Description": "Prosciutto di Parma, fresh arugula, shaved parmesan, lemon vinaigrette",
+    "CategoryID": 2,
+    "BasePrice": 779.0,
+    "ImageURL": "https://images.unsplash.com/photo-1595854341625-f33ee10dbf94?w=400&h=300&fit=crop",
+    "Attributes": "{\"size\":\"Large\",\"inches\":16,\"serves\":4}",
+    "ProductID": 26
+  },
+  {
+    "SKU": "GP-FIGR-M",
+    "Name": "Fig & Goat Cheese Pizza - Medium",
+    "Description": "Fresh figs, goat cheese, caramelized onions, balsamic glaze, walnuts",
+    "CategoryID": 2,
+    "BasePrice": 619.0,
+    "ImageURL": "https://images.unsplash.com/photo-1565299585323-38d6b0865b47?w=400&h=300&fit=crop",
+    "Attributes": "{\"size\":\"Medium\",\"inches\":12,\"serves\":2}",
+    "ProductID": 27
+  },
+  {
+    "SKU": "GP-FIGR-L",
+    "Name": "Fig & Goat Cheese Pizza - Large",
+    "Description": "Fresh figs, goat cheese, caramelized onions, balsamic glaze, walnuts",
+    "CategoryID": 2,
+    "BasePrice": 819.0,
+    "ImageURL": "https://images.unsplash.com/photo-1565299585323-38d6b0865b47?w=400&h=300&fit=crop",
+    "Attributes": "{\"size\":\"Large\",\"inches\":16,\"serves\":4}",
+    "ProductID": 28
+  },
+  {
+    "SKU": "GP-LOBST-M",
+    "Name": "Lobster & Burrata Pizza - Medium",
+    "Description": "Maine lobster, burrata, cherry tomatoes, basil pesto, lemon zest",
+    "CategoryID": 2,
+    "BasePrice": 749.0,
+    "ImageURL": "https://images.unsplash.com/photo-1600028068383-ea11a7a101f3?w=400&h=300&fit=crop",
+    "Attributes": "{\"size\":\"Medium\",\"inches\":12,\"serves\":2}",
+    "ProductID": 29
+  },
+  {
+    "SKU": "GP-SMSAL-M",
+    "Name": "Smoked Salmon Pizza - Medium",
+    "Description": "Smoked salmon, cream cheese, capers, red onion, dill, lemon",
+    "CategoryID": 2,
+    "BasePrice": 629.0,
+    "ImageURL": "https://images.unsplash.com/photo-1590947132387-155cc02f3212?w=400&h=300&fit=crop",
+    "Attributes": "{\"size\":\"Medium\",\"inches\":12,\"serves\":2}",
+    "ProductID": 30
+  },
+  {
+    "SKU": "GP-NDUJA-M",
+    "Name": "Nduja & Honey Pizza - Medium",
+    "Description": "Spicy nduja, fresh mozzarella, hot honey drizzle, chili flakes, basil",
+    "CategoryID": 2,
+    "BasePrice": 569.0,
+    "ImageURL": "https://images.unsplash.com/photo-1571997478779-2adcbbe9ab2f?w=400&h=300&fit=crop",
+    "Attributes": "{\"size\":\"Medium\",\"inches\":12,\"serves\":2}",
+    "ProductID": 31
+  },
+  {
+    "SKU": "GP-DUCK-M",
+    "Name": "Duck Confit Pizza - Medium",
+    "Description": "Shredded duck confit, hoisin sauce, scallions, sesame seeds, mozzarella",
+    "CategoryID": 2,
+    "BasePrice": 679.0,
+    "ImageURL": "https://images.unsplash.com/photo-1593560708920-61dd98c46a4e?w=400&h=300&fit=crop",
+    "Attributes": "{\"size\":\"Medium\",\"inches\":12,\"serves\":2}",
+    "ProductID": 32
+  },
+  {
+    "SKU": "GP-LAMBB-M",
+    "Name": "Lamb & Feta Pizza - Medium",
+    "Description": "Spiced lamb mince, crumbled feta, sun-dried tomatoes, mint, tzatziki",
+    "CategoryID": 2,
+    "BasePrice": 649.0,
+    "ImageURL": "https://images.unsplash.com/photo-1604382355076-af4b0eb60143?w=400&h=300&fit=crop",
+    "Attributes": "{\"size\":\"Medium\",\"inches\":12,\"serves\":2}",
+    "ProductID": 33
+  },
+  {
+    "SKU": "VP-VGSUP-S",
+    "Name": "Veggie Supreme Pizza - Small",
+    "Description": "Bell peppers, mushrooms, onions, olives, tomatoes, corn, mozzarella",
+    "CategoryID": 3,
+    "BasePrice": 269.0,
+    "ImageURL": "https://images.unsplash.com/photo-1571407970349-bc81e7e96d47?w=400&h=300&fit=crop",
+    "Attributes": "{\"size\":\"Small\",\"inches\":8,\"serves\":1}",
+    "ProductID": 34
+  },
+  {
+    "SKU": "VP-VGSUP-M",
+    "Name": "Veggie Supreme Pizza - Medium",
+    "Description": "Bell peppers, mushrooms, onions, olives, tomatoes, corn, mozzarella",
+    "CategoryID": 3,
+    "BasePrice": 429.0,
+    "ImageURL": "https://images.unsplash.com/photo-1571407970349-bc81e7e96d47?w=400&h=300&fit=crop",
+    "Attributes": "{\"size\":\"Medium\",\"inches\":12,\"serves\":2}",
+    "ProductID": 35
+  },
+  {
+    "SKU": "VP-VGSUP-L",
+    "Name": "Veggie Supreme Pizza - Large",
+    "Description": "Bell peppers, mushrooms, onions, olives, tomatoes, corn, mozzarella",
+    "CategoryID": 3,
+    "BasePrice": 579.0,
+    "ImageURL": "https://images.unsplash.com/photo-1571407970349-bc81e7e96d47?w=400&h=300&fit=crop",
+    "Attributes": "{\"size\":\"Large\",\"inches\":16,\"serves\":4}",
+    "ProductID": 36
+  },
+  {
+    "SKU": "VP-PNEER-M",
+    "Name": "Paneer Tikka Pizza - Medium",
+    "Description": "Tandoori paneer, bell peppers, red onion, cilantro, mint chutney drizzle",
+    "CategoryID": 3,
+    "BasePrice": 459.0,
+    "ImageURL": "https://images.unsplash.com/photo-1565299624946-b28f40a0ae38?w=400&h=300&fit=crop",
+    "Attributes": "{\"size\":\"Medium\",\"inches\":12,\"serves\":2}",
+    "ProductID": 37
+  },
+  {
+    "SKU": "VP-PNEER-L",
+    "Name": "Paneer Tikka Pizza - Large",
+    "Description": "Tandoori paneer, bell peppers, red onion, cilantro, mint chutney drizzle",
+    "CategoryID": 3,
+    "BasePrice": 629.0,
+    "ImageURL": "https://images.unsplash.com/photo-1565299624946-b28f40a0ae38?w=400&h=300&fit=crop",
+    "Attributes": "{\"size\":\"Large\",\"inches\":16,\"serves\":4}",
+    "ProductID": 38
+  },
+  {
+    "SKU": "VP-MSHGR-M",
+    "Name": "Mushroom & Garlic Pizza - Medium",
+    "Description": "Roasted portobello, shiitake, cremini, garlic cream sauce, thyme",
+    "CategoryID": 3,
+    "BasePrice": 449.0,
+    "ImageURL": "https://images.unsplash.com/photo-1511689660979-10d2b1aada49?w=400&h=300&fit=crop",
+    "Attributes": "{\"size\":\"Medium\",\"inches\":12,\"serves\":2}",
+    "ProductID": 39
+  },
+  {
+    "SKU": "VP-SPINF-M",
+    "Name": "Spinach & Feta Pizza - Medium",
+    "Description": "Baby spinach, feta, sun-dried tomatoes, garlic, olive oil base",
+    "CategoryID": 3,
+    "BasePrice": 439.0,
+    "ImageURL": "https://images.unsplash.com/photo-1574071318508-1cdbab80d002?w=400&h=300&fit=crop",
+    "Attributes": "{\"size\":\"Medium\",\"inches\":12,\"serves\":2}",
+    "ProductID": 40
+  },
+  {
+    "SKU": "VP-MEDIT-M",
+    "Name": "Mediterranean Veggie Pizza - Medium",
+    "Description": "Artichokes, roasted red peppers, kalamata olives, feta, oregano",
+    "CategoryID": 3,
+    "BasePrice": 469.0,
+    "ImageURL": "https://images.unsplash.com/photo-1595854341625-f33ee10dbf94?w=400&h=300&fit=crop",
+    "Attributes": "{\"size\":\"Medium\",\"inches\":12,\"serves\":2}",
+    "ProductID": 41
+  },
+  {
+    "SKU": "VP-CORNJ-M",
+    "Name": "Corn & Jalapeno Pizza - Medium",
+    "Description": "Sweet corn, jalapenos, red onion, cream cheese, mozzarella",
+    "CategoryID": 3,
+    "BasePrice": 419.0,
+    "ImageURL": "https://images.unsplash.com/photo-1565299585323-38d6b0865b47?w=400&h=300&fit=crop",
+    "Attributes": "{\"size\":\"Medium\",\"inches\":12,\"serves\":2}",
+    "ProductID": 42
+  },
+  {
+    "SKU": "VP-PESTO-M",
+    "Name": "Pesto Veggie Pizza - Medium",
+    "Description": "Basil pesto base, zucchini, cherry tomatoes, artichoke, goat cheese",
+    "CategoryID": 3,
+    "BasePrice": 449.0,
+    "ImageURL": "https://images.unsplash.com/photo-1574071318508-1cdbab80d002?w=400&h=300&fit=crop",
+    "Attributes": "{\"size\":\"Medium\",\"inches\":12,\"serves\":2}",
+    "ProductID": 43
+  },
+  {
+    "SKU": "TC-MARG-M",
+    "Name": "Thin Crust Margherita - Medium",
+    "Description": "Crispy thin crust, tomato, fresh mozzarella, basil",
+    "CategoryID": 4,
+    "BasePrice": 379.0,
+    "ImageURL": "https://images.unsplash.com/photo-1574071318508-1cdbab80d002?w=400&h=300&fit=crop",
+    "Attributes": "{\"size\":\"Medium\",\"crust\":\"thin\"}",
+    "ProductID": 44
+  },
+  {
+    "SKU": "TC-MARG-L",
+    "Name": "Thin Crust Margherita - Large",
+    "Description": "Crispy thin crust, tomato, fresh mozzarella, basil",
+    "CategoryID": 4,
+    "BasePrice": 529.0,
+    "ImageURL": "https://images.unsplash.com/photo-1574071318508-1cdbab80d002?w=400&h=300&fit=crop",
+    "Attributes": "{\"size\":\"Large\",\"crust\":\"thin\"}",
+    "ProductID": 45
+  },
+  {
+    "SKU": "TC-PEPP-M",
+    "Name": "Thin Crust Pepperoni - Medium",
+    "Description": "Crispy thin crust with pepperoni and mozzarella",
+    "CategoryID": 4,
+    "BasePrice": 429.0,
+    "ImageURL": "https://images.unsplash.com/photo-1628840042765-356cda07504e?w=400&h=300&fit=crop",
+    "Attributes": "{\"size\":\"Medium\",\"crust\":\"thin\"}",
+    "ProductID": 46
+  },
+  {
+    "SKU": "TC-PEPP-L",
+    "Name": "Thin Crust Pepperoni - Large",
+    "Description": "Crispy thin crust with pepperoni and mozzarella",
+    "CategoryID": 4,
+    "BasePrice": 579.0,
+    "ImageURL": "https://images.unsplash.com/photo-1628840042765-356cda07504e?w=400&h=300&fit=crop",
+    "Attributes": "{\"size\":\"Large\",\"crust\":\"thin\"}",
+    "ProductID": 47
+  },
+  {
+    "SKU": "TC-BIANCA-M",
+    "Name": "Thin Crust Bianca - Medium",
+    "Description": "White sauce, ricotta, roasted garlic, mozzarella, fresh herbs",
+    "CategoryID": 4,
+    "BasePrice": 449.0,
+    "ImageURL": "https://images.unsplash.com/photo-1571407970349-bc81e7e96d47?w=400&h=300&fit=crop",
+    "Attributes": "{\"size\":\"Medium\",\"crust\":\"thin\"}",
+    "ProductID": 48
+  },
+  {
+    "SKU": "TC-VEGDL-M",
+    "Name": "Thin Crust Veggie Deluxe - Medium",
+    "Description": "Roasted veggies, goat cheese, balsamic, thin crispy base",
+    "CategoryID": 4,
+    "BasePrice": 459.0,
+    "ImageURL": "https://images.unsplash.com/photo-1565299585323-38d6b0865b47?w=400&h=300&fit=crop",
+    "Attributes": "{\"size\":\"Medium\",\"crust\":\"thin\"}",
+    "ProductID": 49
+  },
+  {
+    "SKU": "TC-CAPRE-M",
+    "Name": "Thin Crust Caprese - Medium",
+    "Description": "Fresh tomatoes, basil, mozzarella, balsamic reduction on thin crust",
+    "CategoryID": 4,
+    "BasePrice": 429.0,
+    "ImageURL": "https://images.unsplash.com/photo-1574071318508-1cdbab80d002?w=400&h=300&fit=crop",
+    "Attributes": "{\"size\":\"Medium\",\"crust\":\"thin\"}",
+    "ProductID": 50
+  },
+  {
+    "SKU": "DD-CHSE-M",
+    "Name": "Deep Dish Cheese - Medium",
+    "Description": "Chicago-style deep dish with layers of mozzarella and chunky tomato sauce",
+    "CategoryID": 5,
+    "BasePrice": 499.0,
+    "ImageURL": "https://images.unsplash.com/photo-1600028068383-ea11a7a101f3?w=400&h=300&fit=crop",
+    "Attributes": "{\"size\":\"Medium\",\"crust\":\"deep dish\"}",
+    "ProductID": 51
+  },
+  {
+    "SKU": "DD-CHSE-L",
+    "Name": "Deep Dish Cheese - Large",
+    "Description": "Chicago-style deep dish with layers of mozzarella and chunky tomato sauce",
+    "CategoryID": 5,
+    "BasePrice": 699.0,
+    "ImageURL": "https://images.unsplash.com/photo-1600028068383-ea11a7a101f3?w=400&h=300&fit=crop",
+    "Attributes": "{\"size\":\"Large\",\"crust\":\"deep dish\"}",
+    "ProductID": 52
+  },
+  {
+    "SKU": "DD-PEPP-M",
+    "Name": "Deep Dish Pepperoni - Medium",
+    "Description": "Deep dish loaded with pepperoni and double mozzarella",
+    "CategoryID": 5,
+    "BasePrice": 549.0,
+    "ImageURL": "https://images.unsplash.com/photo-1628840042765-356cda07504e?w=400&h=300&fit=crop",
+    "Attributes": "{\"size\":\"Medium\",\"crust\":\"deep dish\"}",
+    "ProductID": 53
+  },
+  {
+    "SKU": "DD-MEAT-M",
+    "Name": "Deep Dish Meat Feast - Medium",
+    "Description": "Deep dish with sausage, pepperoni, bacon, ham, ground beef",
+    "CategoryID": 5,
+    "BasePrice": 599.0,
+    "ImageURL": "https://images.unsplash.com/photo-1590947132387-155cc02f3212?w=400&h=300&fit=crop",
+    "Attributes": "{\"size\":\"Medium\",\"crust\":\"deep dish\"}",
+    "ProductID": 54
+  },
+  {
+    "SKU": "DD-SPIN-M",
+    "Name": "Deep Dish Spinach & Ricotta - Medium",
+    "Description": "Layers of spinach, ricotta, mozzarella in a buttery deep dish crust",
+    "CategoryID": 5,
+    "BasePrice": 529.0,
+    "ImageURL": "https://images.unsplash.com/photo-1571407970349-bc81e7e96d47?w=400&h=300&fit=crop",
+    "Attributes": "{\"size\":\"Medium\",\"crust\":\"deep dish\"}",
+    "ProductID": 55
+  },
+  {
+    "SKU": "DD-SAUS-M",
+    "Name": "Deep Dish Italian Sausage - Medium",
+    "Description": "Fennel-spiced Italian sausage, roasted peppers, onions in deep dish",
+    "CategoryID": 5,
+    "BasePrice": 549.0,
+    "ImageURL": "https://images.unsplash.com/photo-1604382355076-af4b0eb60143?w=400&h=300&fit=crop",
+    "Attributes": "{\"size\":\"Medium\",\"crust\":\"deep dish\"}",
+    "ProductID": 56
+  },
+  {
+    "SKU": "CZ-CHSE",
+    "Name": "Classic Cheese Calzone",
+    "Description": "Folded pizza dough stuffed with ricotta, mozzarella, parmesan",
+    "CategoryID": 6,
+    "BasePrice": 349.0,
+    "ImageURL": "https://images.unsplash.com/photo-1536964549204-cce9eab227bd?w=400&h=300&fit=crop",
+    "Attributes": "{\"type\":\"calzone\"}",
+    "ProductID": 57
+  },
+  {
+    "SKU": "CZ-PEPP",
+    "Name": "Pepperoni Calzone",
+    "Description": "Pepperoni, mozzarella, ricotta, marinara dipping sauce",
+    "CategoryID": 6,
+    "BasePrice": 389.0,
+    "ImageURL": "https://images.unsplash.com/photo-1536964549204-cce9eab227bd?w=400&h=300&fit=crop",
+    "Attributes": "{\"type\":\"calzone\"}",
+    "ProductID": 58
+  },
+  {
+    "SKU": "CZ-VEGGIE",
+    "Name": "Veggie Calzone",
+    "Description": "Spinach, mushrooms, bell peppers, onions, mozzarella, ricotta",
+    "CategoryID": 6,
+    "BasePrice": 369.0,
+    "ImageURL": "https://images.unsplash.com/photo-1536964549204-cce9eab227bd?w=400&h=300&fit=crop",
+    "Attributes": "{\"type\":\"calzone\"}",
+    "ProductID": 59
+  },
+  {
+    "SKU": "CZ-MEAT",
+    "Name": "Meat Lover's Calzone",
+    "Description": "Pepperoni, sausage, ham, bacon stuffed with three cheeses",
+    "CategoryID": 6,
+    "BasePrice": 419.0,
+    "ImageURL": "https://images.unsplash.com/photo-1536964549204-cce9eab227bd?w=400&h=300&fit=crop",
+    "Attributes": "{\"type\":\"calzone\"}",
+    "ProductID": 60
+  },
+  {
+    "SKU": "ST-ITAL",
+    "Name": "Italian Stromboli",
+    "Description": "Rolled dough with salami, capicola, provolone, roasted peppers",
+    "CategoryID": 6,
+    "BasePrice": 399.0,
+    "ImageURL": "https://images.unsplash.com/photo-1536964549204-cce9eab227bd?w=400&h=300&fit=crop",
+    "Attributes": "{\"type\":\"stromboli\"}",
+    "ProductID": 61
+  },
+  {
+    "SKU": "ST-CHKN",
+    "Name": "Chicken Pesto Stromboli",
+    "Description": "Grilled chicken, pesto, sun-dried tomatoes, mozzarella rolled in dough",
+    "CategoryID": 6,
+    "BasePrice": 409.0,
+    "ImageURL": "https://images.unsplash.com/photo-1536964549204-cce9eab227bd?w=400&h=300&fit=crop",
+    "Attributes": "{\"type\":\"stromboli\"}",
+    "ProductID": 62
+  },
+  {
+    "SKU": "PA-SPAG",
+    "Name": "Spaghetti Bolognese",
+    "Description": "Classic meat ragu with spaghetti, topped with parmesan",
+    "CategoryID": 7,
+    "BasePrice": 349.0,
+    "ImageURL": "https://images.unsplash.com/photo-1551892374-ecf8754cf8b0?w=400&h=300&fit=crop",
+    "ProductID": 63
+  },
+  {
+    "SKU": "PA-FETT",
+    "Name": "Fettuccine Alfredo",
+    "Description": "Creamy parmesan sauce with fettuccine pasta",
+    "CategoryID": 7,
+    "BasePrice": 329.0,
+    "ImageURL": "https://images.unsplash.com/photo-1645112411341-6c4fd023714a?w=400&h=300&fit=crop",
+    "ProductID": 64
+  },
+  {
+    "SKU": "PA-PENNE",
+    "Name": "Penne Arrabiata",
+    "Description": "Spicy tomato sauce with garlic, chili, fresh basil",
+    "CategoryID": 7,
+    "BasePrice": 299.0,
+    "ImageURL": "https://images.unsplash.com/photo-1563379926898-05f4575a45d8?w=400&h=300&fit=crop",
+    "ProductID": 65
+  },
+  {
+    "SKU": "PA-CARB",
+    "Name": "Carbonara",
+    "Description": "Pancetta, egg yolk, parmesan, black pepper with spaghetti",
+    "CategoryID": 7,
+    "BasePrice": 369.0,
+    "ImageURL": "https://images.unsplash.com/photo-1612874742237-6526221588e3?w=400&h=300&fit=crop",
+    "ProductID": 66
+  },
+  {
+    "SKU": "PA-LSGN",
+    "Name": "Lasagna al Forno",
+    "Description": "Layers of pasta, beef ragu, bechamel, mozzarella, baked golden",
+    "CategoryID": 7,
+    "BasePrice": 399.0,
+    "ImageURL": "https://images.unsplash.com/photo-1574894709920-11b28e7367e3?w=400&h=300&fit=crop",
+    "ProductID": 67
+  },
+  {
+    "SKU": "PA-RAVIOLI",
+    "Name": "Spinach & Ricotta Ravioli",
+    "Description": "Handmade ravioli in sage butter sauce with toasted pine nuts",
+    "CategoryID": 7,
+    "BasePrice": 389.0,
+    "ImageURL": "https://images.unsplash.com/photo-1587740908075-9e245070dfaa?w=400&h=300&fit=crop",
+    "ProductID": 68
+  },
+  {
+    "SKU": "PA-PESTO",
+    "Name": "Penne Pesto",
+    "Description": "Basil pesto, cherry tomatoes, pine nuts, parmesan with penne",
+    "CategoryID": 7,
+    "BasePrice": 319.0,
+    "ImageURL": "https://images.unsplash.com/photo-1563379926898-05f4575a45d8?w=400&h=300&fit=crop",
+    "ProductID": 69
+  },
+  {
+    "SKU": "PA-AGLIO",
+    "Name": "Aglio e Olio",
+    "Description": "Garlic, chili, olive oil, parsley with spaghetti \u2014 simple perfection",
+    "CategoryID": 7,
+    "BasePrice": 279.0,
+    "ImageURL": "https://images.unsplash.com/photo-1551892374-ecf8754cf8b0?w=400&h=300&fit=crop",
+    "ProductID": 70
+  },
+  {
+    "SKU": "PA-MACCH",
+    "Name": "Mac & Cheese",
+    "Description": "Creamy three-cheese sauce with elbow pasta, breadcrumb topping",
+    "CategoryID": 7,
+    "BasePrice": 289.0,
+    "ImageURL": "https://images.unsplash.com/photo-1543339494-b4cd4f7ba686?w=400&h=300&fit=crop",
+    "ProductID": 71
+  },
+  {
+    "SKU": "PA-BKNZITI",
+    "Name": "Baked Ziti",
+    "Description": "Ziti pasta baked with marinara, ricotta, mozzarella, italian sausage",
+    "CategoryID": 7,
+    "BasePrice": 369.0,
+    "ImageURL": "https://images.unsplash.com/photo-1574894709920-11b28e7367e3?w=400&h=300&fit=crop",
+    "ProductID": 72
+  },
+  {
+    "SKU": "PA-SHRIMP",
+    "Name": "Shrimp Scampi Linguine",
+    "Description": "Garlic butter shrimp, white wine, lemon, parsley with linguine",
+    "CategoryID": 7,
+    "BasePrice": 449.0,
+    "ImageURL": "https://images.unsplash.com/photo-1563379926898-05f4575a45d8?w=400&h=300&fit=crop",
+    "ProductID": 73
+  },
+  {
+    "SKU": "PA-VODKA",
+    "Name": "Penne alla Vodka",
+    "Description": "Creamy tomato vodka sauce, pancetta, parmesan with penne",
+    "CategoryID": 7,
+    "BasePrice": 359.0,
+    "ImageURL": "https://images.unsplash.com/photo-1612874742237-6526221588e3?w=400&h=300&fit=crop",
+    "ProductID": 74
+  },
+  {
+    "SKU": "SA-GRLBRD",
+    "Name": "Garlic Bread",
+    "Description": "Toasted Italian bread with garlic butter and herbs",
+    "CategoryID": 8,
+    "BasePrice": 149.0,
+    "ImageURL": "https://images.unsplash.com/photo-1619535860434-ba1d8fa12536?w=400&h=300&fit=crop",
+    "ProductID": 75
+  },
+  {
+    "SKU": "SA-GRLCHZ",
+    "Name": "Cheesy Garlic Bread",
+    "Description": "Garlic bread topped with melted mozzarella and parmesan",
+    "CategoryID": 8,
+    "BasePrice": 199.0,
+    "ImageURL": "https://images.unsplash.com/photo-1619535860434-ba1d8fa12536?w=400&h=300&fit=crop",
+    "ProductID": 76
+  },
+  {
+    "SKU": "SA-BREADST",
+    "Name": "Breadsticks (6 pcs)",
+    "Description": "Soft baked breadsticks with marinara dipping sauce",
+    "CategoryID": 8,
+    "BasePrice": 169.0,
+    "ImageURL": "https://images.unsplash.com/photo-1509722747041-616f39b57569?w=400&h=300&fit=crop",
+    "ProductID": 77
+  },
+  {
+    "SKU": "SA-MOZSTK",
+    "Name": "Mozzarella Sticks (6 pcs)",
+    "Description": "Crispy fried mozzarella with marinara sauce",
+    "CategoryID": 8,
+    "BasePrice": 249.0,
+    "ImageURL": "https://images.unsplash.com/photo-1531749668029-2db88e4276c7?w=400&h=300&fit=crop",
+    "ProductID": 78
+  },
+  {
+    "SKU": "SA-ONRING",
+    "Name": "Onion Rings",
+    "Description": "Beer-battered crispy onion rings with chipotle mayo",
+    "CategoryID": 8,
+    "BasePrice": 219.0,
+    "ImageURL": "https://images.unsplash.com/photo-1639024471283-03518883512d?w=400&h=300&fit=crop",
+    "ProductID": 79
+  },
+  {
+    "SKU": "SA-JALAPOP",
+    "Name": "Jalapeno Poppers (8 pcs)",
+    "Description": "Cream cheese stuffed jalapenos, crispy breaded and fried",
+    "CategoryID": 8,
+    "BasePrice": 269.0,
+    "ImageURL": "https://images.unsplash.com/photo-1625937286930-3c5aa048c884?w=400&h=300&fit=crop",
+    "ProductID": 80
+  },
+  {
+    "SKU": "SA-FRIES",
+    "Name": "Classic Fries",
+    "Description": "Crispy golden French fries with ketchup",
+    "CategoryID": 8,
+    "BasePrice": 149.0,
+    "ImageURL": "https://images.unsplash.com/photo-1573080496219-bb080dd4f877?w=400&h=300&fit=crop",
+    "ProductID": 81
+  },
+  {
+    "SKU": "SA-CHZFR",
+    "Name": "Loaded Cheese Fries",
+    "Description": "Fries topped with melted cheese, bacon bits, sour cream, chives",
+    "CategoryID": 8,
+    "BasePrice": 249.0,
+    "ImageURL": "https://images.unsplash.com/photo-1573080496219-bb080dd4f877?w=400&h=300&fit=crop",
+    "ProductID": 82
+  },
+  {
+    "SKU": "SA-NACHOS",
+    "Name": "Supreme Nachos",
+    "Description": "Tortilla chips loaded with cheese, jalapenos, salsa, guacamole, sour cream",
+    "CategoryID": 8,
+    "BasePrice": 299.0,
+    "ImageURL": "https://images.unsplash.com/photo-1513456852971-30c0b8199d4d?w=400&h=300&fit=crop",
+    "ProductID": 83
+  },
+  {
+    "SKU": "SA-BRSHTA",
+    "Name": "Bruschetta",
+    "Description": "Toasted ciabatta topped with fresh tomatoes, basil, garlic, balsamic",
+    "CategoryID": 8,
+    "BasePrice": 229.0,
+    "ImageURL": "https://images.unsplash.com/photo-1572695157366-5e585ab2b69f?w=400&h=300&fit=crop",
+    "ProductID": 84
+  },
+  {
+    "SKU": "SA-WEDGES",
+    "Name": "Potato Wedges",
+    "Description": "Seasoned thick-cut potato wedges with ranch dip",
+    "CategoryID": 8,
+    "BasePrice": 179.0,
+    "ImageURL": "https://images.unsplash.com/photo-1573080496219-bb080dd4f877?w=400&h=300&fit=crop",
+    "ProductID": 85
+  },
+  {
+    "SKU": "SA-CALAMARI",
+    "Name": "Fried Calamari",
+    "Description": "Crispy fried squid rings with lemon aioli and marinara",
+    "CategoryID": 8,
+    "BasePrice": 329.0,
+    "ImageURL": "https://images.unsplash.com/photo-1599487488170-d11ec9c172f0?w=400&h=300&fit=crop",
+    "ProductID": 86
+  },
+  {
+    "SKU": "WG-BUFF-6",
+    "Name": "Buffalo Wings (6 pcs)",
+    "Description": "Classic buffalo hot wings with celery sticks and blue cheese dip",
+    "CategoryID": 9,
+    "BasePrice": 299.0,
+    "ImageURL": "https://images.unsplash.com/photo-1608039829572-9b0081bcdfa1?w=400&h=300&fit=crop",
+    "ProductID": 87
+  },
+  {
+    "SKU": "WG-BUFF-12",
+    "Name": "Buffalo Wings (12 pcs)",
+    "Description": "Classic buffalo hot wings with celery sticks and blue cheese dip",
+    "CategoryID": 9,
+    "BasePrice": 499.0,
+    "ImageURL": "https://images.unsplash.com/photo-1608039829572-9b0081bcdfa1?w=400&h=300&fit=crop",
+    "ProductID": 88
+  },
+  {
+    "SKU": "WG-BBQ-6",
+    "Name": "BBQ Wings (6 pcs)",
+    "Description": "Smoky BBQ glazed chicken wings",
+    "CategoryID": 9,
+    "BasePrice": 299.0,
+    "ImageURL": "https://images.unsplash.com/photo-1608039829572-9b0081bcdfa1?w=400&h=300&fit=crop",
+    "ProductID": 89
+  },
+  {
+    "SKU": "WG-BBQ-12",
+    "Name": "BBQ Wings (12 pcs)",
+    "Description": "Smoky BBQ glazed chicken wings",
+    "CategoryID": 9,
+    "BasePrice": 499.0,
+    "ImageURL": "https://images.unsplash.com/photo-1608039829572-9b0081bcdfa1?w=400&h=300&fit=crop",
+    "ProductID": 90
+  },
+  {
+    "SKU": "WG-GRLCP-6",
+    "Name": "Garlic Parmesan Wings (6 pcs)",
+    "Description": "Tossed in garlic butter and parmesan",
+    "CategoryID": 9,
+    "BasePrice": 309.0,
+    "ImageURL": "https://images.unsplash.com/photo-1608039829572-9b0081bcdfa1?w=400&h=300&fit=crop",
+    "ProductID": 91
+  },
+  {
+    "SKU": "WG-HONEY-6",
+    "Name": "Honey Sriracha Wings (6 pcs)",
+    "Description": "Sweet and spicy honey sriracha glaze",
+    "CategoryID": 9,
+    "BasePrice": 309.0,
+    "ImageURL": "https://images.unsplash.com/photo-1608039829572-9b0081bcdfa1?w=400&h=300&fit=crop",
+    "ProductID": 92
+  },
+  {
+    "SKU": "WG-LMNPP-6",
+    "Name": "Lemon Pepper Wings (6 pcs)",
+    "Description": "Zesty lemon pepper dry rub wings",
+    "CategoryID": 9,
+    "BasePrice": 299.0,
+    "ImageURL": "https://images.unsplash.com/photo-1608039829572-9b0081bcdfa1?w=400&h=300&fit=crop",
+    "ProductID": 93
+  },
+  {
+    "SKU": "WG-TNDR-5",
+    "Name": "Chicken Tenders (5 pcs)",
+    "Description": "Hand-breaded crispy chicken tenders with honey mustard",
+    "CategoryID": 9,
+    "BasePrice": 279.0,
+    "ImageURL": "https://images.unsplash.com/photo-1562967914-608f82629710?w=400&h=300&fit=crop",
+    "ProductID": 94
+  },
+  {
+    "SKU": "WG-TNDR-10",
+    "Name": "Chicken Tenders (10 pcs)",
+    "Description": "Hand-breaded crispy chicken tenders with honey mustard",
+    "CategoryID": 9,
+    "BasePrice": 479.0,
+    "ImageURL": "https://images.unsplash.com/photo-1562967914-608f82629710?w=400&h=300&fit=crop",
+    "ProductID": 95
+  },
+  {
+    "SKU": "WG-BONLS-8",
+    "Name": "Boneless Wings (8 pcs)",
+    "Description": "Crispy boneless chicken bites, choice of sauce",
+    "CategoryID": 9,
+    "BasePrice": 329.0,
+    "ImageURL": "https://images.unsplash.com/photo-1562967914-608f82629710?w=400&h=300&fit=crop",
+    "ProductID": 96
+  },
+  {
+    "SKU": "SL-CAESAR",
+    "Name": "Caesar Salad",
+    "Description": "Romaine, croutons, parmesan, classic Caesar dressing",
+    "CategoryID": 10,
+    "BasePrice": 249.0,
+    "ImageURL": "https://images.unsplash.com/photo-1546793665-c74683f339c1?w=400&h=300&fit=crop",
+    "ProductID": 97
+  },
+  {
+    "SKU": "SL-CSGRIL",
+    "Name": "Grilled Chicken Caesar Salad",
+    "Description": "Caesar salad topped with herb-grilled chicken breast",
+    "CategoryID": 10,
+    "BasePrice": 349.0,
+    "ImageURL": "https://images.unsplash.com/photo-1546793665-c74683f339c1?w=400&h=300&fit=crop",
+    "ProductID": 98
+  },
+  {
+    "SKU": "SL-GARDEN",
+    "Name": "Garden Salad",
+    "Description": "Mixed greens, tomatoes, cucumber, carrots, red onion, croutons",
+    "CategoryID": 10,
+    "BasePrice": 199.0,
+    "ImageURL": "https://images.unsplash.com/photo-1512621776951-a57141f2eefd?w=400&h=300&fit=crop",
+    "ProductID": 99
+  },
+  {
+    "SKU": "SL-GREEK",
+    "Name": "Greek Salad",
+    "Description": "Tomatoes, cucumber, olives, red onion, feta, oregano vinaigrette",
+    "CategoryID": 10,
+    "BasePrice": 269.0,
+    "ImageURL": "https://images.unsplash.com/photo-1540189549336-e6e99c3679fe?w=400&h=300&fit=crop",
+    "ProductID": 100
+  },
+  {
+    "SKU": "SL-CAPRESE",
+    "Name": "Caprese Salad",
+    "Description": "Fresh mozzarella, heirloom tomatoes, basil, balsamic glaze",
+    "CategoryID": 10,
+    "BasePrice": 289.0,
+    "ImageURL": "https://images.unsplash.com/photo-1592417817098-8fd3d9eb14a5?w=400&h=300&fit=crop",
+    "ProductID": 101
+  },
+  {
+    "SKU": "SL-ANTIPST",
+    "Name": "Antipasto Salad",
+    "Description": "Salami, capicola, provolone, olives, peppers, artichokes, Italian dressing",
+    "CategoryID": 10,
+    "BasePrice": 349.0,
+    "ImageURL": "https://images.unsplash.com/photo-1512621776951-a57141f2eefd?w=400&h=300&fit=crop",
+    "ProductID": 102
+  },
+  {
+    "SKU": "SL-COLESLAW",
+    "Name": "Creamy Coleslaw",
+    "Description": "Shredded cabbage and carrots in creamy tangy dressing",
+    "CategoryID": 10,
+    "BasePrice": 129.0,
+    "ImageURL": "https://images.unsplash.com/photo-1540189549336-e6e99c3679fe?w=400&h=300&fit=crop",
+    "ProductID": 103
+  },
+  {
+    "SKU": "BG-CLASSIC",
+    "Name": "Classic Smash Burger",
+    "Description": "Beef patty, lettuce, tomato, onion, pickles, special sauce on brioche",
+    "CategoryID": 11,
+    "BasePrice": 299.0,
+    "ImageURL": "https://images.unsplash.com/photo-1568901346375-23c9450c58cd?w=400&h=300&fit=crop",
+    "ProductID": 104
+  },
+  {
+    "SKU": "BG-DOUBLE",
+    "Name": "Double Smash Burger",
+    "Description": "Two beef patties, double cheese, lettuce, pickles, special sauce",
+    "CategoryID": 11,
+    "BasePrice": 399.0,
+    "ImageURL": "https://images.unsplash.com/photo-1568901346375-23c9450c58cd?w=400&h=300&fit=crop",
+    "ProductID": 105
+  },
+  {
+    "SKU": "BG-BBQ",
+    "Name": "BBQ Bacon Burger",
+    "Description": "Beef patty, crispy bacon, cheddar, onion rings, BBQ sauce",
+    "CategoryID": 11,
+    "BasePrice": 379.0,
+    "ImageURL": "https://images.unsplash.com/photo-1553979459-d2229ba7433b?w=400&h=300&fit=crop",
+    "ProductID": 106
+  },
+  {
+    "SKU": "BG-MUSHSW",
+    "Name": "Mushroom Swiss Burger",
+    "Description": "Beef patty, sauteed mushrooms, Swiss cheese, garlic aioli",
+    "CategoryID": 11,
+    "BasePrice": 369.0,
+    "ImageURL": "https://images.unsplash.com/photo-1553979459-d2229ba7433b?w=400&h=300&fit=crop",
+    "ProductID": 107
+  },
+  {
+    "SKU": "BG-CHKN",
+    "Name": "Crispy Chicken Sandwich",
+    "Description": "Fried chicken breast, coleslaw, pickles, spicy mayo on brioche",
+    "CategoryID": 11,
+    "BasePrice": 329.0,
+    "ImageURL": "https://images.unsplash.com/photo-1606755962773-d324e0a13086?w=400&h=300&fit=crop",
+    "ProductID": 108
+  },
+  {
+    "SKU": "BG-PHILLY",
+    "Name": "Philly Cheesesteak",
+    "Description": "Shaved beef, peppers, onions, provolone on hoagie roll",
+    "CategoryID": 11,
+    "BasePrice": 399.0,
+    "ImageURL": "https://images.unsplash.com/photo-1600891964599-f61ba0e24092?w=400&h=300&fit=crop",
+    "ProductID": 109
+  },
+  {
+    "SKU": "BG-MEATBL",
+    "Name": "Meatball Sub",
+    "Description": "House-made meatballs, marinara, melted mozzarella on sub roll",
+    "CategoryID": 11,
+    "BasePrice": 349.0,
+    "ImageURL": "https://images.unsplash.com/photo-1600891964599-f61ba0e24092?w=400&h=300&fit=crop",
+    "ProductID": 110
+  },
+  {
+    "SKU": "BG-VEGBG",
+    "Name": "Veggie Burger",
+    "Description": "Black bean patty, avocado, lettuce, tomato, chipotle mayo",
+    "CategoryID": 11,
+    "BasePrice": 289.0,
+    "ImageURL": "https://images.unsplash.com/photo-1568901346375-23c9450c58cd?w=400&h=300&fit=crop",
+    "ProductID": 111
+  },
+  {
+    "SKU": "BG-ITLSUB",
+    "Name": "Italian Sub",
+    "Description": "Salami, ham, capicola, provolone, lettuce, tomato, Italian dressing",
+    "CategoryID": 11,
+    "BasePrice": 349.0,
+    "ImageURL": "https://images.unsplash.com/photo-1600891964599-f61ba0e24092?w=400&h=300&fit=crop",
+    "ProductID": 112
+  },
+  {
+    "SKU": "BG-CLUBSW",
+    "Name": "Turkey Club Sandwich",
+    "Description": "Roasted turkey, bacon, lettuce, tomato, avocado, mayo on sourdough",
+    "CategoryID": 11,
+    "BasePrice": 329.0,
+    "ImageURL": "https://images.unsplash.com/photo-1606755962773-d324e0a13086?w=400&h=300&fit=crop",
+    "ProductID": 113
+  },
+  {
+    "SKU": "DR-COKE",
+    "Name": "Coca-Cola",
+    "Description": "Classic Coca-Cola 330ml can",
+    "CategoryID": 12,
+    "BasePrice": 59.0,
+    "ImageURL": "https://images.unsplash.com/photo-1629203851122-3726ecdf080e?w=400&h=300&fit=crop",
+    "ProductID": 114
+  },
+  {
+    "SKU": "DR-COKELG",
+    "Name": "Coca-Cola Large",
+    "Description": "Coca-Cola 500ml bottle",
+    "CategoryID": 12,
+    "BasePrice": 89.0,
+    "ImageURL": "https://images.unsplash.com/photo-1629203851122-3726ecdf080e?w=400&h=300&fit=crop",
+    "ProductID": 115
+  },
+  {
+    "SKU": "DR-SPRITE",
+    "Name": "Sprite",
+    "Description": "Lemon-lime Sprite 330ml can",
+    "CategoryID": 12,
+    "BasePrice": 59.0,
+    "ImageURL": "https://images.unsplash.com/photo-1625772299848-391b6a87d7b3?w=400&h=300&fit=crop",
+    "ProductID": 116
+  },
+  {
+    "SKU": "DR-FANTA",
+    "Name": "Fanta Orange",
+    "Description": "Fanta Orange 330ml can",
+    "CategoryID": 12,
+    "BasePrice": 59.0,
+    "ImageURL": "https://images.unsplash.com/photo-1624517452488-04869289c4ca?w=400&h=300&fit=crop",
+    "ProductID": 117
+  },
+  {
+    "SKU": "DR-PEPSI",
+    "Name": "Pepsi",
+    "Description": "Pepsi 330ml can",
+    "CategoryID": 12,
+    "BasePrice": 59.0,
+    "ImageURL": "https://images.unsplash.com/photo-1629203851122-3726ecdf080e?w=400&h=300&fit=crop",
+    "ProductID": 118
+  },
+  {
+    "SKU": "DR-WATER",
+    "Name": "Mineral Water",
+    "Description": "Still mineral water 500ml",
+    "CategoryID": 12,
+    "BasePrice": 39.0,
+    "ImageURL": "https://images.unsplash.com/photo-1560023907-5f339617ea55?w=400&h=300&fit=crop",
+    "ProductID": 119
+  },
+  {
+    "SKU": "DR-SPARK",
+    "Name": "Sparkling Water",
+    "Description": "Sparkling mineral water 500ml",
+    "CategoryID": 12,
+    "BasePrice": 49.0,
+    "ImageURL": "https://images.unsplash.com/photo-1560023907-5f339617ea55?w=400&h=300&fit=crop",
+    "ProductID": 120
+  },
+  {
+    "SKU": "DR-LEMON",
+    "Name": "Fresh Lemonade",
+    "Description": "House-made lemonade with fresh lemons and mint",
+    "CategoryID": 12,
+    "BasePrice": 119.0,
+    "ImageURL": "https://images.unsplash.com/photo-1621263764928-df1444c5e859?w=400&h=300&fit=crop",
+    "ProductID": 121
+  },
+  {
+    "SKU": "DR-ICETEA",
+    "Name": "Iced Tea - Peach",
+    "Description": "Chilled peach iced tea",
+    "CategoryID": 12,
+    "BasePrice": 99.0,
+    "ImageURL": "https://images.unsplash.com/photo-1556679343-c7306c1976bc?w=400&h=300&fit=crop",
+    "ProductID": 122
+  },
+  {
+    "SKU": "DR-MANGO",
+    "Name": "Mango Lassi",
+    "Description": "Creamy mango yogurt drink, Indian-style",
+    "CategoryID": 12,
+    "BasePrice": 149.0,
+    "ImageURL": "https://images.unsplash.com/photo-1527661591475-527312dd65f5?w=400&h=300&fit=crop",
+    "ProductID": 123
+  },
+  {
+    "SKU": "DR-CHOCSH",
+    "Name": "Chocolate Shake",
+    "Description": "Rich chocolate milkshake with whipped cream",
+    "CategoryID": 12,
+    "BasePrice": 179.0,
+    "ImageURL": "https://images.unsplash.com/photo-1572490122747-3968b75cc699?w=400&h=300&fit=crop",
+    "ProductID": 124
+  },
+  {
+    "SKU": "DR-VANSH",
+    "Name": "Vanilla Shake",
+    "Description": "Classic vanilla milkshake with whipped cream",
+    "CategoryID": 12,
+    "BasePrice": 179.0,
+    "ImageURL": "https://images.unsplash.com/photo-1572490122747-3968b75cc699?w=400&h=300&fit=crop",
+    "ProductID": 125
+  },
+  {
+    "SKU": "DR-OREO",
+    "Name": "Oreo Cookie Shake",
+    "Description": "Cookies and cream milkshake with Oreo crumble",
+    "CategoryID": 12,
+    "BasePrice": 199.0,
+    "ImageURL": "https://images.unsplash.com/photo-1572490122747-3968b75cc699?w=400&h=300&fit=crop",
+    "ProductID": 126
+  },
+  {
+    "SKU": "DR-COFFEE",
+    "Name": "Fresh Brewed Coffee",
+    "Description": "Hot brewed Arabica coffee",
+    "CategoryID": 12,
+    "BasePrice": 99.0,
+    "ImageURL": "https://images.unsplash.com/photo-1509042239860-f550ce710b93?w=400&h=300&fit=crop",
+    "ProductID": 127
+  },
+  {
+    "SKU": "DR-CAPPUC",
+    "Name": "Cappuccino",
+    "Description": "Espresso with steamed milk foam",
+    "CategoryID": 12,
+    "BasePrice": 139.0,
+    "ImageURL": "https://images.unsplash.com/photo-1509042239860-f550ce710b93?w=400&h=300&fit=crop",
+    "ProductID": 128
+  },
+  {
+    "SKU": "DR-COLDCF",
+    "Name": "Cold Coffee",
+    "Description": "Iced coffee blended with milk and cream",
+    "CategoryID": 12,
+    "BasePrice": 149.0,
+    "ImageURL": "https://images.unsplash.com/photo-1461023058943-07fcbe16d735?w=400&h=300&fit=crop",
+    "ProductID": 129
+  },
+  {
+    "SKU": "DS-CHOCLV",
+    "Name": "Choco Lava Cake",
+    "Description": "Warm chocolate cake with molten center, served with vanilla ice cream",
+    "CategoryID": 13,
+    "BasePrice": 199.0,
+    "ImageURL": "https://images.unsplash.com/photo-1624353365286-3f8d62daad51?w=400&h=300&fit=crop",
+    "ProductID": 130
+  },
+  {
+    "SKU": "DS-TIRAMI",
+    "Name": "Tiramisu",
+    "Description": "Classic Italian tiramisu with espresso-soaked ladyfingers and mascarpone",
+    "CategoryID": 13,
+    "BasePrice": 229.0,
+    "ImageURL": "https://images.unsplash.com/photo-1571877227200-a0d98ea607e9?w=400&h=300&fit=crop",
+    "ProductID": 131
+  },
+  {
+    "SKU": "DS-PANNAC",
+    "Name": "Panna Cotta",
+    "Description": "Vanilla panna cotta with berry compote",
+    "CategoryID": 13,
+    "BasePrice": 199.0,
+    "ImageURL": "https://images.unsplash.com/photo-1488477181946-6428a0291777?w=400&h=300&fit=crop",
+    "ProductID": 132
+  },
+  {
+    "SKU": "DS-CANOLI",
+    "Name": "Cannoli (2 pcs)",
+    "Description": "Crispy shells filled with sweet ricotta, chocolate chips",
+    "CategoryID": 13,
+    "BasePrice": 179.0,
+    "ImageURL": "https://images.unsplash.com/photo-1621303837174-89787a7d4729?w=400&h=300&fit=crop",
+    "ProductID": 133
+  },
+  {
+    "SKU": "DS-GELATO",
+    "Name": "Gelato (2 Scoops)",
+    "Description": "Italian gelato \u2014 choose from chocolate, vanilla, pistachio, strawberry",
+    "CategoryID": 13,
+    "BasePrice": 149.0,
+    "ImageURL": "https://images.unsplash.com/photo-1501443762994-82bd5dace89a?w=400&h=300&fit=crop",
+    "ProductID": 134
+  },
+  {
+    "SKU": "DS-BROWNI",
+    "Name": "Fudge Brownie",
+    "Description": "Rich fudge brownie with walnut pieces and chocolate ganache",
+    "CategoryID": 13,
+    "BasePrice": 169.0,
+    "ImageURL": "https://images.unsplash.com/photo-1606313564200-e75d5e30476c?w=400&h=300&fit=crop",
+    "ProductID": 135
+  },
+  {
+    "SKU": "DS-CHZCKE",
+    "Name": "New York Cheesecake",
+    "Description": "Classic creamy cheesecake with graham cracker crust",
+    "CategoryID": 13,
+    "BasePrice": 219.0,
+    "ImageURL": "https://images.unsplash.com/photo-1524351199432-d330b3b6dbbe?w=400&h=300&fit=crop",
+    "ProductID": 136
+  },
+  {
+    "SKU": "DS-COOKIE",
+    "Name": "Warm Cookie Skillet",
+    "Description": "Giant chocolate chip cookie baked in a skillet, topped with ice cream",
+    "CategoryID": 13,
+    "BasePrice": 229.0,
+    "ImageURL": "https://images.unsplash.com/photo-1499636136210-6f4ee915583e?w=400&h=300&fit=crop",
+    "ProductID": 137
+  },
+  {
+    "SKU": "DS-CNTFLR",
+    "Name": "Nutella Churros (4 pcs)",
+    "Description": "Crispy churros with Nutella dipping sauce and powdered sugar",
+    "CategoryID": 13,
+    "BasePrice": 189.0,
+    "ImageURL": "https://images.unsplash.com/photo-1624371414361-e670246e6464?w=400&h=300&fit=crop",
+    "ProductID": 138
+  },
+  {
+    "SKU": "DS-APPLEPIE",
+    "Name": "Apple Pie Slice",
+    "Description": "Warm apple pie with cinnamon, served with whipped cream",
+    "CategoryID": 13,
+    "BasePrice": 179.0,
+    "ImageURL": "https://images.unsplash.com/photo-1535920527002-b35e96722eb9?w=400&h=300&fit=crop",
+    "ProductID": 139
+  },
+  {
+    "SKU": "CM-PPM1",
+    "Name": "Pepperoni Meal for 1",
+    "Description": "Medium Pepperoni pizza + Garlic Bread + Coke",
+    "CategoryID": 14,
+    "BasePrice": 549.0,
+    "ImageURL": "https://images.unsplash.com/photo-1628840042765-356cda07504e?w=400&h=300&fit=crop",
+    "Attributes": "{\"items\":[\"CP-PEPP-M\",\"SA-GRLBRD\",\"DR-COKE\"],\"savings\":\"Save \u20b978\"}",
+    "ProductID": 140
+  },
+  {
+    "SKU": "CM-MRG1",
+    "Name": "Margherita Meal for 1",
+    "Description": "Medium Margherita pizza + Breadsticks + Sprite",
+    "CategoryID": 14,
+    "BasePrice": 499.0,
+    "ImageURL": "https://images.unsplash.com/photo-1574071318508-1cdbab80d002?w=400&h=300&fit=crop",
+    "Attributes": "{\"items\":[\"CP-MARG-M\",\"SA-BREADST\",\"DR-SPRITE\"],\"savings\":\"Save \u20b968\"}",
+    "ProductID": 141
+  },
+  {
+    "SKU": "CM-FAM4",
+    "Name": "Family Feast for 4",
+    "Description": "2 Large Pizzas + Cheesy Garlic Bread + Wings 12pc + 4 Drinks",
+    "CategoryID": 14,
+    "BasePrice": 1599.0,
+    "ImageURL": "https://images.unsplash.com/photo-1513104890138-7c749659a591?w=400&h=300&fit=crop",
+    "Attributes": "{\"savings\":\"Save \u20b9350\"}",
+    "ProductID": 142
+  },
+  {
+    "SKU": "CM-DATE2",
+    "Name": "Date Night for 2",
+    "Description": "Medium Gourmet Pizza + Caesar Salad + Tiramisu + 2 Drinks",
+    "CategoryID": 14,
+    "BasePrice": 999.0,
+    "ImageURL": "https://images.unsplash.com/photo-1595854341625-f33ee10dbf94?w=400&h=300&fit=crop",
+    "Attributes": "{\"savings\":\"Save \u20b9198\"}",
+    "ProductID": 143
+  },
+  {
+    "SKU": "CM-PARTY8",
+    "Name": "Party Pack for 8",
+    "Description": "4 Large Pizzas + 2 Sides + 24 Wings + 8 Drinks + 2 Desserts",
+    "CategoryID": 14,
+    "BasePrice": 3499.0,
+    "ImageURL": "https://images.unsplash.com/photo-1513104890138-7c749659a591?w=400&h=300&fit=crop",
+    "Attributes": "{\"savings\":\"Save \u20b9800\"}",
+    "ProductID": 144
+  },
+  {
+    "SKU": "CM-WNGLV",
+    "Name": "Wing Lover's Deal",
+    "Description": "24 Wings (mix flavors) + Loaded Fries + 2 Dips + 2 Drinks",
+    "CategoryID": 14,
+    "BasePrice": 899.0,
+    "ImageURL": "https://images.unsplash.com/photo-1608039829572-9b0081bcdfa1?w=400&h=300&fit=crop",
+    "Attributes": "{\"savings\":\"Save \u20b9180\"}",
+    "ProductID": 145
+  },
+  {
+    "SKU": "CM-PASTA1",
+    "Name": "Pasta Meal for 1",
+    "Description": "Any Pasta + Garlic Bread + Drink",
+    "CategoryID": 14,
+    "BasePrice": 449.0,
+    "ImageURL": "https://images.unsplash.com/photo-1551892374-ecf8754cf8b0?w=400&h=300&fit=crop",
+    "Attributes": "{\"savings\":\"Save \u20b968\"}",
+    "ProductID": 146
+  },
+  {
+    "SKU": "CM-BRGR1",
+    "Name": "Burger Meal for 1",
+    "Description": "Any Burger + Fries + Drink",
+    "CategoryID": 14,
+    "BasePrice": 399.0,
+    "ImageURL": "https://images.unsplash.com/photo-1568901346375-23c9450c58cd?w=400&h=300&fit=crop",
+    "Attributes": "{\"savings\":\"Save \u20b958\"}",
+    "ProductID": 147
+  },
+  {
+    "SKU": "BF-EGGS",
+    "Name": "Breakfast Egg Pizza",
+    "Description": "Scrambled eggs, bacon, cheddar, mozzarella on thin crust",
+    "CategoryID": 15,
+    "BasePrice": 299.0,
+    "ImageURL": "https://images.unsplash.com/photo-1565299624946-b28f40a0ae38?w=400&h=300&fit=crop",
+    "Attributes": "{\"time\":\"served until 11am\"}",
+    "ProductID": 148
+  },
+  {
+    "SKU": "BF-SAUSEG",
+    "Name": "Sausage & Egg Pizza",
+    "Description": "Italian sausage, fried eggs, roasted peppers, mozzarella",
+    "CategoryID": 15,
+    "BasePrice": 329.0,
+    "ImageURL": "https://images.unsplash.com/photo-1513104890138-7c749659a591?w=400&h=300&fit=crop",
+    "Attributes": "{\"time\":\"served until 11am\"}",
+    "ProductID": 149
+  },
+  {
+    "SKU": "BF-BACON",
+    "Name": "Bacon & Mushroom Breakfast Pizza",
+    "Description": "Crispy bacon, sauteed mushrooms, eggs, hollandaise drizzle",
+    "CategoryID": 15,
+    "BasePrice": 339.0,
+    "ImageURL": "https://images.unsplash.com/photo-1590947132387-155cc02f3212?w=400&h=300&fit=crop",
+    "Attributes": "{\"time\":\"served until 11am\"}",
+    "ProductID": 150
+  },
+  {
+    "SKU": "BF-VEGBF",
+    "Name": "Veggie Breakfast Pizza",
+    "Description": "Spinach, tomatoes, mushrooms, eggs, feta on garlic cream base",
+    "CategoryID": 15,
+    "BasePrice": 289.0,
+    "ImageURL": "https://images.unsplash.com/photo-1571407970349-bc81e7e96d47?w=400&h=300&fit=crop",
+    "Attributes": "{\"time\":\"served until 11am\"}",
+    "ProductID": 151
+  },
+  {
+    "SKU": "BF-SMOKED",
+    "Name": "Smoked Salmon Breakfast Pizza",
+    "Description": "Smoked salmon, cream cheese, capers, red onion, dill, scrambled egg",
+    "CategoryID": 15,
+    "BasePrice": 399.0,
+    "ImageURL": "https://images.unsplash.com/photo-1565299585323-38d6b0865b47?w=400&h=300&fit=crop",
+    "Attributes": "{\"time\":\"served until 11am\"}",
+    "ProductID": 152
+  },
+  {
+    "SKU": "KD-CHZPZ-S",
+    "Name": "Kids Cheese Pizza",
+    "Description": "Small cheese pizza made just for kids",
+    "CategoryID": 16,
+    "BasePrice": 179.0,
+    "ImageURL": "https://images.unsplash.com/photo-1574071318508-1cdbab80d002?w=400&h=300&fit=crop",
+    "Attributes": "{\"size\":\"Small\",\"age\":\"under 12\"}",
+    "ProductID": 153
+  },
+  {
+    "SKU": "KD-PEPPPZ",
+    "Name": "Kids Pepperoni Pizza",
+    "Description": "Small pepperoni pizza for little pizza fans",
+    "CategoryID": 16,
+    "BasePrice": 199.0,
+    "ImageURL": "https://images.unsplash.com/photo-1628840042765-356cda07504e?w=400&h=300&fit=crop",
+    "Attributes": "{\"size\":\"Small\",\"age\":\"under 12\"}",
+    "ProductID": 154
+  },
+  {
+    "SKU": "KD-MACCH",
+    "Name": "Kids Mac & Cheese",
+    "Description": "Creamy mac and cheese in a fun bowl",
+    "CategoryID": 16,
+    "BasePrice": 169.0,
+    "ImageURL": "https://images.unsplash.com/photo-1543339494-b4cd4f7ba686?w=400&h=300&fit=crop",
+    "Attributes": "{\"age\":\"under 12\"}",
+    "ProductID": 155
+  },
+  {
+    "SKU": "KD-TNDR3",
+    "Name": "Kids Chicken Tenders (3 pcs)",
+    "Description": "Crispy chicken tenders with fries and ketchup",
+    "CategoryID": 16,
+    "BasePrice": 189.0,
+    "ImageURL": "https://images.unsplash.com/photo-1562967914-608f82629710?w=400&h=300&fit=crop",
+    "Attributes": "{\"age\":\"under 12\"}",
+    "ProductID": 156
+  },
+  {
+    "SKU": "KD-PASTA",
+    "Name": "Kids Spaghetti & Meatballs",
+    "Description": "Mini meatballs with spaghetti and tomato sauce",
+    "CategoryID": 16,
+    "BasePrice": 179.0,
+    "ImageURL": "https://images.unsplash.com/photo-1551892374-ecf8754cf8b0?w=400&h=300&fit=crop",
+    "Attributes": "{\"age\":\"under 12\"}",
+    "ProductID": 157
+  },
+  {
+    "SKU": "KD-MEAL",
+    "Name": "Kids Combo Meal",
+    "Description": "Kids pizza or pasta + fries + juice box + cookie",
+    "CategoryID": 16,
+    "BasePrice": 279.0,
+    "ImageURL": "https://images.unsplash.com/photo-1513104890138-7c749659a591?w=400&h=300&fit=crop",
+    "Attributes": "{\"age\":\"under 12\",\"savings\":\"Save \u20b950\"}",
+    "ProductID": 158
+  },
+  {
+    "SKU": "DX-RANCH",
+    "Name": "Ranch Dip",
+    "Description": "House-made ranch dipping sauce",
+    "CategoryID": 17,
+    "BasePrice": 39.0,
+    "ImageURL": "https://images.unsplash.com/photo-1472476443507-c7a5948772fc?w=400&h=300&fit=crop",
+    "ProductID": 159
+  },
+  {
+    "SKU": "DX-MARINARA",
+    "Name": "Marinara Dip",
+    "Description": "Classic tomato marinara sauce",
+    "CategoryID": 17,
+    "BasePrice": 29.0,
+    "ImageURL": "https://images.unsplash.com/photo-1472476443507-c7a5948772fc?w=400&h=300&fit=crop",
+    "ProductID": 160
+  },
+  {
+    "SKU": "DX-BBQ",
+    "Name": "BBQ Sauce",
+    "Description": "Smoky barbecue dipping sauce",
+    "CategoryID": 17,
+    "BasePrice": 29.0,
+    "ImageURL": "https://images.unsplash.com/photo-1472476443507-c7a5948772fc?w=400&h=300&fit=crop",
+    "ProductID": 161
+  },
+  {
+    "SKU": "DX-BUFFL",
+    "Name": "Buffalo Sauce",
+    "Description": "Spicy buffalo hot sauce",
+    "CategoryID": 17,
+    "BasePrice": 29.0,
+    "ImageURL": "https://images.unsplash.com/photo-1472476443507-c7a5948772fc?w=400&h=300&fit=crop",
+    "ProductID": 162
+  },
+  {
+    "SKU": "DX-GARLIC",
+    "Name": "Garlic Butter Dip",
+    "Description": "Warm garlic butter for crust dipping",
+    "CategoryID": 17,
+    "BasePrice": 39.0,
+    "ImageURL": "https://images.unsplash.com/photo-1472476443507-c7a5948772fc?w=400&h=300&fit=crop",
+    "ProductID": 163
+  },
+  {
+    "SKU": "DX-BLUECH",
+    "Name": "Blue Cheese Dip",
+    "Description": "Creamy blue cheese dressing",
+    "CategoryID": 17,
+    "BasePrice": 49.0,
+    "ImageURL": "https://images.unsplash.com/photo-1472476443507-c7a5948772fc?w=400&h=300&fit=crop",
+    "ProductID": 164
+  },
+  {
+    "SKU": "DX-HONEY",
+    "Name": "Honey Mustard Dip",
+    "Description": "Sweet honey mustard sauce",
+    "CategoryID": 17,
+    "BasePrice": 39.0,
+    "ImageURL": "https://images.unsplash.com/photo-1472476443507-c7a5948772fc?w=400&h=300&fit=crop",
+    "ProductID": 165
+  },
+  {
+    "SKU": "DX-CHILI",
+    "Name": "Chili Flakes",
+    "Description": "Crushed red chili flakes packet",
+    "CategoryID": 17,
+    "BasePrice": 9.0,
+    "ImageURL": "https://images.unsplash.com/photo-1472476443507-c7a5948772fc?w=400&h=300&fit=crop",
+    "ProductID": 166
+  },
+  {
+    "SKU": "DX-PARM",
+    "Name": "Parmesan Packets (3)",
+    "Description": "Grated parmesan cheese packets",
+    "CategoryID": 17,
+    "BasePrice": 19.0,
+    "ImageURL": "https://images.unsplash.com/photo-1472476443507-c7a5948772fc?w=400&h=300&fit=crop",
+    "ProductID": 167
+  },
+  {
+    "SKU": "DX-OREGANO",
+    "Name": "Oregano Packets (3)",
+    "Description": "Dried oregano seasoning packets",
+    "CategoryID": 17,
+    "BasePrice": 9.0,
+    "ImageURL": "https://images.unsplash.com/photo-1472476443507-c7a5948772fc?w=400&h=300&fit=crop",
+    "ProductID": 168
+  },
+  {
+    "SKU": "DX-XTCHZ",
+    "Name": "Extra Cheese Topping",
+    "Description": "Add extra mozzarella to any pizza",
+    "CategoryID": 17,
+    "BasePrice": 79.0,
+    "ImageURL": "https://images.unsplash.com/photo-1472476443507-c7a5948772fc?w=400&h=300&fit=crop",
+    "ProductID": 169
+  },
+  {
+    "SKU": "DX-XTMEAT",
+    "Name": "Extra Meat Topping",
+    "Description": "Add extra meat to any pizza (pepperoni, sausage, or bacon)",
+    "CategoryID": 17,
+    "BasePrice": 99.0,
+    "ImageURL": "https://images.unsplash.com/photo-1472476443507-c7a5948772fc?w=400&h=300&fit=crop",
+    "ProductID": 170
+  },
+  {
+    "SKU": "CP-TANDOR-M",
+    "Name": "Tandoori Chicken Pizza - Medium",
+    "Description": "Tandoori chicken, onions, peppers, cilantro, mozzarella, mint chutney",
+    "CategoryID": 1,
+    "BasePrice": 469.0,
+    "ImageURL": "https://images.unsplash.com/photo-1565299624946-b28f40a0ae38?w=400&h=300&fit=crop",
+    "Attributes": "{\"size\":\"Medium\",\"inches\":12,\"serves\":2}",
+    "ProductID": 171
+  },
+  {
+    "SKU": "CP-TANDOR-L",
+    "Name": "Tandoori Chicken Pizza - Large",
+    "Description": "Tandoori chicken, onions, peppers, cilantro, mozzarella, mint chutney",
+    "CategoryID": 1,
+    "BasePrice": 639.0,
+    "ImageURL": "https://images.unsplash.com/photo-1565299624946-b28f40a0ae38?w=400&h=300&fit=crop",
+    "Attributes": "{\"size\":\"Large\",\"inches\":16,\"serves\":4}",
+    "ProductID": 172
+  },
+  {
+    "SKU": "CP-TKAHOT-M",
+    "Name": "Tikka Hot Pizza - Medium",
+    "Description": "Spicy chicken tikka, jalapenos, red chili, onion, hot sauce drizzle",
+    "CategoryID": 1,
+    "BasePrice": 479.0,
+    "ImageURL": "https://images.unsplash.com/photo-1593560708920-61dd98c46a4e?w=400&h=300&fit=crop",
+    "Attributes": "{\"size\":\"Medium\",\"inches\":12,\"serves\":2}",
+    "ProductID": 173
+  },
+  {
+    "SKU": "GP-PORCINI-M",
+    "Name": "Porcini & Taleggio Pizza - Medium",
+    "Description": "Wild porcini mushrooms, taleggio cheese, thyme, truffle honey",
+    "CategoryID": 2,
+    "BasePrice": 649.0,
+    "ImageURL": "https://images.unsplash.com/photo-1511689660979-10d2b1aada49?w=400&h=300&fit=crop",
+    "Attributes": "{\"size\":\"Medium\",\"inches\":12,\"serves\":2}",
+    "ProductID": 174
+  },
+  {
+    "SKU": "GP-BRISKT-M",
+    "Name": "Smoked Brisket Pizza - Medium",
+    "Description": "12-hour smoked brisket, pickled onions, cheddar, BBQ drizzle",
+    "CategoryID": 2,
+    "BasePrice": 699.0,
+    "ImageURL": "https://images.unsplash.com/photo-1590947132387-155cc02f3212?w=400&h=300&fit=crop",
+    "Attributes": "{\"size\":\"Medium\",\"inches\":12,\"serves\":2}",
+    "ProductID": 175
+  },
+  {
+    "SKU": "GP-BURRATA-M",
+    "Name": "Burrata & Cherry Tomato Pizza - Medium",
+    "Description": "Whole burrata center, roasted cherry tomatoes, basil oil, sea salt",
+    "CategoryID": 2,
+    "BasePrice": 629.0,
+    "ImageURL": "https://images.unsplash.com/photo-1574071318508-1cdbab80d002?w=400&h=300&fit=crop",
+    "Attributes": "{\"size\":\"Medium\",\"inches\":12,\"serves\":2}",
+    "ProductID": 176
+  },
+  {
+    "SKU": "VP-BBQPNR-M",
+    "Name": "BBQ Paneer Pizza - Medium",
+    "Description": "BBQ sauce, paneer cubes, onion, capsicum, corn, mozzarella",
+    "CategoryID": 3,
+    "BasePrice": 449.0,
+    "ImageURL": "https://images.unsplash.com/photo-1513104890138-7c749659a591?w=400&h=300&fit=crop",
+    "Attributes": "{\"size\":\"Medium\",\"inches\":12,\"serves\":2}",
+    "ProductID": 177
+  },
+  {
+    "SKU": "VP-MARGVG-M",
+    "Name": "Margherita with Burrata - Medium",
+    "Description": "Classic margherita topped with fresh burrata and basil pesto",
+    "CategoryID": 3,
+    "BasePrice": 499.0,
+    "ImageURL": "https://images.unsplash.com/photo-1574071318508-1cdbab80d002?w=400&h=300&fit=crop",
+    "Attributes": "{\"size\":\"Medium\",\"inches\":12,\"serves\":2}",
+    "ProductID": 178
+  },
+  {
+    "SKU": "TC-SHRMP-M",
+    "Name": "Thin Crust Shrimp Scampi - Medium",
+    "Description": "Garlic butter shrimp, cherry tomatoes, basil on thin crust",
+    "CategoryID": 4,
+    "BasePrice": 529.0,
+    "ImageURL": "https://images.unsplash.com/photo-1565299585323-38d6b0865b47?w=400&h=300&fit=crop",
+    "Attributes": "{\"size\":\"Medium\",\"crust\":\"thin\"}",
+    "ProductID": 179
+  },
+  {
+    "SKU": "TC-PRSCTO-M",
+    "Name": "Thin Crust Prosciutto - Medium",
+    "Description": "Prosciutto, fig jam, arugula, parmesan shavings on thin crust",
+    "CategoryID": 4,
+    "BasePrice": 549.0,
+    "ImageURL": "https://images.unsplash.com/photo-1595854341625-f33ee10dbf94?w=400&h=300&fit=crop",
+    "Attributes": "{\"size\":\"Medium\",\"crust\":\"thin\"}",
+    "ProductID": 180
+  },
+  {
+    "SKU": "DD-VEGLD-M",
+    "Name": "Deep Dish Veggie Loaded - Medium",
+    "Description": "Deep dish packed with mushrooms, peppers, onions, olives, spinach",
+    "CategoryID": 5,
+    "BasePrice": 519.0,
+    "ImageURL": "https://images.unsplash.com/photo-1571407970349-bc81e7e96d47?w=400&h=300&fit=crop",
+    "Attributes": "{\"size\":\"Medium\",\"crust\":\"deep dish\"}",
+    "ProductID": 181
+  },
+  {
+    "SKU": "PA-CACIO",
+    "Name": "Cacio e Pepe",
+    "Description": "Roman classic \u2014 pecorino, black pepper, spaghetti, nothing else needed",
+    "CategoryID": 7,
+    "BasePrice": 329.0,
+    "ImageURL": "https://images.unsplash.com/photo-1551892374-ecf8754cf8b0?w=400&h=300&fit=crop",
+    "ProductID": 182
+  },
+  {
+    "SKU": "PA-SEAFOOD",
+    "Name": "Seafood Marinara Pasta",
+    "Description": "Prawns, mussels, calamari in garlic tomato sauce with linguine",
+    "CategoryID": 7,
+    "BasePrice": 479.0,
+    "ImageURL": "https://images.unsplash.com/photo-1563379926898-05f4575a45d8?w=400&h=300&fit=crop",
+    "ProductID": 183
+  },
+  {
+    "SKU": "PA-GNOCHI",
+    "Name": "Gnocchi al Pesto",
+    "Description": "Potato gnocchi in basil pesto with cherry tomatoes and pine nuts",
+    "CategoryID": 7,
+    "BasePrice": 359.0,
+    "ImageURL": "https://images.unsplash.com/photo-1587740908075-9e245070dfaa?w=400&h=300&fit=crop",
+    "ProductID": 184
+  },
+  {
+    "SKU": "SA-SPINART",
+    "Name": "Spinach Artichoke Dip",
+    "Description": "Warm creamy spinach and artichoke dip with tortilla chips",
+    "CategoryID": 8,
+    "BasePrice": 269.0,
+    "ImageURL": "https://images.unsplash.com/photo-1572695157366-5e585ab2b69f?w=400&h=300&fit=crop",
+    "ProductID": 185
+  },
+  {
+    "SKU": "SA-MNGCHTN",
+    "Name": "Mango Chutney Flatbread",
+    "Description": "Crispy flatbread with mango chutney, cream cheese, jalape\u00f1o",
+    "CategoryID": 8,
+    "BasePrice": 249.0,
+    "ImageURL": "https://images.unsplash.com/photo-1619535860434-ba1d8fa12536?w=400&h=300&fit=crop",
+    "ProductID": 186
+  },
+  {
+    "SKU": "WG-TERIY-6",
+    "Name": "Teriyaki Wings (6 pcs)",
+    "Description": "Sticky teriyaki glazed wings with sesame seeds",
+    "CategoryID": 9,
+    "BasePrice": 319.0,
+    "ImageURL": "https://images.unsplash.com/photo-1608039829572-9b0081bcdfa1?w=400&h=300&fit=crop",
+    "ProductID": 187
+  },
+  {
+    "SKU": "WG-CAJUN-6",
+    "Name": "Cajun Dry Rub Wings (6 pcs)",
+    "Description": "Cajun spice dry rub with cooling ranch on the side",
+    "CategoryID": 9,
+    "BasePrice": 299.0,
+    "ImageURL": "https://images.unsplash.com/photo-1608039829572-9b0081bcdfa1?w=400&h=300&fit=crop",
+    "ProductID": 188
+  },
+  {
+    "SKU": "SL-WALDORF",
+    "Name": "Waldorf Salad",
+    "Description": "Apples, walnuts, celery, grapes, mixed greens, creamy dressing",
+    "CategoryID": 10,
+    "BasePrice": 279.0,
+    "ImageURL": "https://images.unsplash.com/photo-1512621776951-a57141f2eefd?w=400&h=300&fit=crop",
+    "ProductID": 189
+  },
+  {
+    "SKU": "BG-SPICYCK",
+    "Name": "Spicy Nashville Chicken Sandwich",
+    "Description": "Hot Nashville-style fried chicken, pickles, slaw on brioche",
+    "CategoryID": 11,
+    "BasePrice": 359.0,
+    "ImageURL": "https://images.unsplash.com/photo-1606755962773-d324e0a13086?w=400&h=300&fit=crop",
+    "ProductID": 190
+  },
+  {
+    "SKU": "BG-FISHSW",
+    "Name": "Crispy Fish Sandwich",
+    "Description": "Beer-battered fish fillet, tartar sauce, lettuce on brioche",
+    "CategoryID": 11,
+    "BasePrice": 329.0,
+    "ImageURL": "https://images.unsplash.com/photo-1600891964599-f61ba0e24092?w=400&h=300&fit=crop",
+    "ProductID": 191
+  },
+  {
+    "SKU": "DR-MOJITO",
+    "Name": "Virgin Mojito",
+    "Description": "Fresh mint, lime, soda, sugar \u2014 refreshing mocktail",
+    "CategoryID": 12,
+    "BasePrice": 129.0,
+    "ImageURL": "https://images.unsplash.com/photo-1621263764928-df1444c5e859?w=400&h=300&fit=crop",
+    "ProductID": 192
+  },
+  {
+    "SKU": "DR-STRBSH",
+    "Name": "Strawberry Shake",
+    "Description": "Fresh strawberry milkshake with whipped cream",
+    "CategoryID": 12,
+    "BasePrice": 189.0,
+    "ImageURL": "https://images.unsplash.com/photo-1572490122747-3968b75cc699?w=400&h=300&fit=crop",
+    "ProductID": 193
+  },
+  {
+    "SKU": "DS-AFFOGTO",
+    "Name": "Affogato",
+    "Description": "Vanilla gelato drowned in a shot of hot espresso",
+    "CategoryID": 13,
+    "BasePrice": 169.0,
+    "ImageURL": "https://images.unsplash.com/photo-1501443762994-82bd5dace89a?w=400&h=300&fit=crop",
+    "ProductID": 194
+  },
+  {
+    "SKU": "DS-ZEPPLE",
+    "Name": "Zeppole (6 pcs)",
+    "Description": "Italian fried dough balls dusted with powdered sugar, Nutella dip",
+    "CategoryID": 13,
+    "BasePrice": 179.0,
+    "ImageURL": "https://images.unsplash.com/photo-1624371414361-e670246e6464?w=400&h=300&fit=crop",
+    "ProductID": 195
+  },
+  {
+    "SKU": "CM-VEGF4",
+    "Name": "Veggie Family Feast for 4",
+    "Description": "2 Large Veg Pizzas + Garlic Bread + Nachos + 4 Drinks",
+    "CategoryID": 14,
+    "BasePrice": 1449.0,
+    "ImageURL": "https://images.unsplash.com/photo-1571407970349-bc81e7e96d47?w=400&h=300&fit=crop",
+    "Attributes": "{\"savings\":\"Save \u20b9300\"}",
+    "ProductID": 196
+  },
+  {
+    "SKU": "CM-LNCH1",
+    "Name": "Lunch Express",
+    "Description": "Small Pizza + Side + Drink \u2014 weekday lunch special",
+    "CategoryID": 14,
+    "BasePrice": 349.0,
+    "ImageURL": "https://images.unsplash.com/photo-1574071318508-1cdbab80d002?w=400&h=300&fit=crop",
+    "Attributes": "{\"savings\":\"Save \u20b980\",\"time\":\"Mon-Fri 11am-3pm\"}",
+    "ProductID": 197
+  },
+  {
+    "SKU": "BF-FRCHTS",
+    "Name": "French Toast Sticks (6 pcs)",
+    "Description": "Cinnamon French toast sticks with maple syrup dip",
+    "CategoryID": 15,
+    "BasePrice": 199.0,
+    "ImageURL": "https://images.unsplash.com/photo-1619535860434-ba1d8fa12536?w=400&h=300&fit=crop",
+    "Attributes": "{\"time\":\"served until 11am\"}",
+    "ProductID": 198
+  },
+  {
+    "SKU": "KD-GRLCHZ",
+    "Name": "Kids Grilled Cheese",
+    "Description": "Melty cheddar and mozzarella on toasted bread with fries",
+    "CategoryID": 16,
+    "BasePrice": 159.0,
+    "ImageURL": "https://images.unsplash.com/photo-1600891964599-f61ba0e24092?w=400&h=300&fit=crop",
+    "Attributes": "{\"age\":\"under 12\"}",
+    "ProductID": 199
+  },
+  {
+    "SKU": "DX-TRUFOIL",
+    "Name": "Truffle Oil Drizzle",
+    "Description": "Black truffle infused olive oil finish for any pizza",
+    "CategoryID": 17,
+    "BasePrice": 69.0,
+    "ImageURL": "https://images.unsplash.com/photo-1472476443507-c7a5948772fc?w=400&h=300&fit=crop",
+    "ProductID": 200
+  },
+  {
+    "SKU": "DX-JALAP",
+    "Name": "Extra Jalapenos",
+    "Description": "Fresh sliced jalapenos on the side",
+    "CategoryID": 17,
+    "BasePrice": 29.0,
+    "ImageURL": "https://images.unsplash.com/photo-1472476443507-c7a5948772fc?w=400&h=300&fit=crop",
+    "ProductID": 201
+  }
+]
