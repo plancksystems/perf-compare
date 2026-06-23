@@ -1,11 +1,7 @@
-address: "0.0.0.0"
+address: "127.0.0.1"
 primary: true
 max_sessions: 128
 port: 24020
-tls:
-  enabled: false
-  cert_file: ""
-  key_file: ""
 session:
   idle_timeout_ms: 604800000
 buffers:

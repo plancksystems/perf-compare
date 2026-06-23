@@ -1,6 +1,6 @@
 store: categories
 format: json
-output_dir: /Users/kamlesh/planckapps/samples/perf/planck-pizzahub/app/seed
+output_dir: /Users/kamlesh/plancksystems/perf/planck-pizzahub/app/seed
 entities:
   - name: categories
     role: parent
