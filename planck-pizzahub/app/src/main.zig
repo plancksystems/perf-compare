@@ -25,11 +25,17 @@ pub fn main() !void {
 
     var ctx = Ctx{ .client = client };
 
+    const providers_yaml = std.fs.cwd().readFileAlloc(allocator, "providers.yaml", 1024 * 1024) catch |err| switch (err) {
+        error.FileNotFound => try allocator.dupe(u8, ""),
+        else => return err,
+    };
+    defer allocator.free(providers_yaml);
+
     var app = try schnell.App.init(allocator, .{
         .host = "127.0.0.1",
         .port = 4320,
         .static_dir = "/Users/kamlesh/planckapps/samples/perf/planck-pizzahub/public",
-    });
+    }, providers_yaml);
     defer app.deinit();
 
     var cors = schnell.CorsMiddleware.init(.{});
