@@ -20,6 +20,7 @@ http:
 
 wasm:
   enabled: true
-  min_instances: 2
-  max_instances: 8
-  autoscale: false
+  min_instances: 4
+  max_instances: 16
+  autoscale: true
+ 

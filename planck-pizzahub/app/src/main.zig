@@ -25,7 +25,7 @@ pub fn main() !void {
 
     var ctx = Ctx{ .client = client };
 
-    const providers_yaml = std.fs.cwd().readFileAlloc(allocator, "providers.yaml", 1024 * 1024) catch |err| switch (err) {
+    const providers_yaml = std.Io.Dir.readFileAlloc(.cwd(), io, "providers.yaml", allocator, .unlimited) catch |err| switch (err) {
         error.FileNotFound => try allocator.dupe(u8, ""),
         else => return err,
     };
