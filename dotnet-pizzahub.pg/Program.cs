@@ -6,12 +6,7 @@ using Npgsql;
 
 var builder = WebApplication.CreateBuilder(args);
 
-// Read port and host from config.yaml if it exists
-var (host, port) = ReadConfigYaml("config.yaml");
-builder.WebHost.ConfigureKestrel(options =>
-{
-    options.Listen(IPAddress.Parse(host), port);
-});
+// Use default host and port bindings
 
 var app = builder.Build();
 
@@ -243,40 +238,6 @@ async Task SeedDatabaseAsync(NpgsqlConnection conn)
     }
 }
 
-(string host, int port) ReadConfigYaml(string path)
-{
-    var host = "127.0.0.1";
-    var port = 5000;
-    if (File.Exists(path))
-    {
-        var lines = File.ReadAllLines(path);
-        string? currentSection = null;
-        foreach (var line in lines)
-        {
-            var trimmed = line.Trim();
-            if (trimmed.StartsWith("#") || string.IsNullOrEmpty(trimmed)) continue;
-            
-            if (trimmed.EndsWith(":"))
-            {
-                currentSection = trimmed.Substring(0, trimmed.Length - 1).ToLower();
-                continue;
-            }
-
-            var parts = trimmed.Split(new[] { ':' }, 2);
-            if (parts.Length == 2)
-            {
-                var key = parts[0].Trim().ToLower();
-                var val = parts[1].Trim().Trim('"', '\'');
-                if (currentSection == "server")
-                {
-                    if (key == "host") host = val;
-                    else if (key == "port") int.TryParse(val, out port);
-                }
-            }
-        }
-    }
-    return (host, port);
-}
 
 public record Category(int CategoryID, string Name, string? Description, string CreatedAt);
 public record Product(int ProductID, string SKU, string Name, string? Description, int CategoryID, double BasePrice, string? ImageURL, string? Attributes, string CreatedAt, string UpdatedAt);

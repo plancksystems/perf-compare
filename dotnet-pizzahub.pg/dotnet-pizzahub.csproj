@@ -4,7 +4,7 @@
     <TargetFramework>net9.0</TargetFramework>
     <Nullable>enable</Nullable>
     <ImplicitUsings>enable</ImplicitUsings>
-    <RootNamespace>dotnet_pizzahub</RootNamespace>
+    <RootNamespace>dotnet_pizzahub_pg</RootNamespace>
   </PropertyGroup>
 
   <ItemGroup>
