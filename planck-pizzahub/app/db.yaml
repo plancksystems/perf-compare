@@ -24,7 +24,7 @@ index:
   secondary:
     pool_size: 64
 cache:
-  enabled: false
+  enabled: true
   capacity: 10000
 logging:
   path: ""
